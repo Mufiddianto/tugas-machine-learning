@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Academic_Level,Learning_Platform,Daily_Online_Learning_Hours,Live_Class_Attendance_Percent,Device_Type,Internet_Stability_Score,Learning_Engagement_Score,Assignment_Submission_Rate,Interaction_Frequency,Perceived_Workload_Score,Learning_Satisfaction_Score,Academic_Performance_GPA,Overall_Effectiveness
+STU_2024000,25,Female,Undergraduate,Google Meet,3.2,75,Laptop,5,3,88,Never,6,7,3.34,Highly Effective
+STU_2024001,15,Male,High School,Google Meet,4.9,83,Smartphone,5,5,100,Frequently,6,8,3.47,Highly Effective
+STU_2024002,20,Female,Undergraduate,Microsoft Teams,7.1,61,Laptop,4,3,40,Sometimes,6,4,2.41,Moderately Effective
+STU_2024003,24,Male,Undergraduate,Canvas,5.9,91,Smartphone,3,4,96,Rarely,7,6,3.7,Highly Effective
+STU_2024004,20,Female,Undergraduate,Canvas,3.5,97,Laptop,4,4,100,Rarely,8,4,3.98,Highly Effective
+STU_2024005,25,Male,Undergraduate,Moodle,7.0,84,Smartphone,1,3,78,Sometimes,8,8,2.68,Effective
+STU_2024006,20,Female,Undergraduate,Microsoft Teams,7.8,72,Laptop,3,4,71,Frequently,7,8,2.73,Effective
+STU_2024007,18,Other,High School,Moodle,2.2,82,Smartphone,4,4,87,Rarely,4,4,3.96,Effective
+STU_2024008,23,Female,Undergraduate,Zoom,1.1,69,Tablet,4,3,73,Rarely,7,5,2.95,Effective
+STU_2024009,19,Other,Undergraduate,Coursera,7.8,92,Laptop,4,3,80,Frequently,7,4,2.88,Effective
+STU_2024010,23,Male,Undergraduate,Zoom,1.3,100,Laptop,5,4,91,Always,5,8,3.27,Highly Effective
+STU_2024011,22,Male,Undergraduate,Coursera,2.5,56,Smartphone,3,2,50,Always,5,7,2.27,Moderately Effective
+STU_2024012,18,Male,High School,Microsoft Teams,5.5,63,Desktop,2,3,74,Frequently,8,6,2.97,Effective
+STU_2024013,16,Male,High School,Google Classroom,7.7,87,Laptop,3,3,79,Rarely,6,8,2.83,Highly Effective
+STU_2024014,22,Female,Undergraduate,Microsoft Teams,3.0,90,Tablet,4,4,69,Frequently,6,8,3.1,Highly Effective
+STU_2024015,21,Male,Undergraduate,Coursera,3.4,83,Tablet,4,5,86,Always,7,5,3.46,Highly Effective
+STU_2024016,23,Female,Undergraduate,Google Meet,6.9,100,Desktop,5,4,99,Sometimes,8,7,3.35,Highly Effective
+STU_2024017,21,Female,Undergraduate,Microsoft Teams,6.5,67,Laptop,5,4,92,Frequently,7,8,3.22,Highly Effective
+STU_2024018,15,Male,High School,Zoom,3.7,94,Laptop,5,4,85,Frequently,6,8,3.11,Highly Effective
+STU_2024019,16,Male,High School,Moodle,8.2,66,Laptop,1,3,89,Frequently,8,5,3.06,Effective
+STU_2024020,25,Male,Undergraduate,Moodle,2.6,66,Laptop,5,3,75,Frequently,5,6,2.77,Effective
+STU_2024021,23,Female,Undergraduate,Canvas,3.9,88,Laptop,3,4,73,Sometimes,7,9,3.02,Highly Effective
+STU_2024022,23,Female,Undergraduate,Coursera,8.0,100,Smartphone,3,5,100,Rarely,6,7,3.69,Highly Effective
+STU_2024023,20,Female,Undergraduate,Google Meet,4.7,79,Tablet,2,5,71,Never,4,7,3.36,Highly Effective
+STU_2024024,19,Female,Undergraduate,Microsoft Teams,4.3,84,Smartphone,5,4,97,Always,5,7,3.1,Highly Effective
+STU_2024025,17,Female,High School,Canvas,6.6,100,Tablet,3,3,89,Frequently,8,7,2.88,Highly Effective
+STU_2024026,24,Male,Undergraduate,Moodle,8.8,97,Tablet,1,2,84,Always,6,5,2.34,Effective
+STU_2024027,18,Female,High School,Coursera,4.1,95,Smartphone,3,4,99,Always,5,7,3.13,Highly Effective
+STU_2024028,25,Female,Undergraduate,Canvas,2.0,77,Laptop,4,3,69,Sometimes,3,9,3.08,Effective
+STU_2024029,19,Female,Undergraduate,Canvas,5.2,65,Laptop,4,5,85,Always,6,8,3.17,Highly Effective
+STU_2024030,21,Female,Undergraduate,Coursera,6.0,80,Smartphone,3,3,96,Sometimes,8,5,3.59,Effective
+STU_2024031,19,Male,Undergraduate,Google Meet,4.2,76,Laptop,4,4,98,Always,5,6,2.93,Highly Effective
+STU_2024032,23,Male,Undergraduate,Canvas,4.3,59,Laptop,4,3,63,Frequently,6,8,2.33,Effective
+STU_2024033,17,Male,High School,Canvas,5.4,66,Smartphone,5,5,76,Sometimes,5,9,3.11,Highly Effective
+STU_2024034,22,Male,Undergraduate,Coursera,4.2,72,Laptop,4,3,67,Frequently,6,9,2.85,Effective
+STU_2024035,16,Male,High School,Moodle,8.5,80,Laptop,3,4,91,Frequently,6,5,2.21,Effective
+STU_2024036,24,Female,Undergraduate,Coursera,5.3,77,Tablet,5,3,54,Frequently,5,6,2.89,Effective
+STU_2024037,18,Male,High School,Canvas,4.8,71,Tablet,2,3,74,Sometimes,7,5,2.77,Effective
+STU_2024038,18,Female,High School,Moodle,2.0,59,Smartphone,4,4,77,Always,7,5,2.57,Effective
+STU_2024039,24,Female,Undergraduate,Google Classroom,3.7,53,Desktop,5,5,55,Frequently,5,9,2.63,Highly Effective
+STU_2024040,19,Female,Undergraduate,Google Classroom,5.7,88,Laptop,5,3,100,Frequently,4,8,2.89,Highly Effective
+STU_2024041,25,Female,Undergraduate,Google Meet,7.2,88,Laptop,3,4,76,Always,7,6,3.95,Highly Effective
+STU_2024042,21,Female,Undergraduate,Google Classroom,6.2,100,Smartphone,3,4,100,Never,8,8,3.33,Highly Effective
+STU_2024043,15,Male,High School,Moodle,5.7,71,Laptop,4,4,80,Frequently,6,7,2.82,Highly Effective
+STU_2024044,17,Other,High School,Google Classroom,8.0,55,Smartphone,3,3,76,Frequently,7,6,2.46,Effective
+STU_2024045,19,Male,Undergraduate,Zoom,6.6,78,Tablet,4,4,80,Frequently,6,8,3.08,Highly Effective
+STU_2024046,22,Female,Undergraduate,Canvas,6.9,78,Smartphone,4,3,88,Frequently,7,5,2.84,Effective
+STU_2024047,21,Male,Undergraduate,Zoom,7.1,86,Laptop,5,4,86,Frequently,9,7,3.13,Highly Effective
+STU_2024048,20,Female,Undergraduate,Moodle,3.4,73,Laptop,5,5,69,Sometimes,5,8,3.46,Highly Effective
+STU_2024049,23,Male,Undergraduate,Google Meet,5.9,78,Smartphone,3,4,75,Frequently,7,6,3.33,Effective
+STU_2024050,20,Female,Undergraduate,Google Meet,3.9,66,Smartphone,3,4,75,Frequently,5,9,2.79,Highly Effective
+STU_2024051,18,Female,High School,Microsoft Teams,5.2,81,Laptop,5,3,85,Sometimes,5,6,3.52,Highly Effective
+STU_2024052,17,Female,High School,Google Classroom,5.8,100,Smartphone,4,5,100,Sometimes,5,7,3.56,Highly Effective
+STU_2024053,15,Female,High School,Coursera,6.8,77,Smartphone,4,4,88,Frequently,7,6,4.0,Highly Effective
+STU_2024054,16,Male,High School,Microsoft Teams,6.5,85,Smartphone,4,5,66,Always,8,7,3.59,Highly Effective
+STU_2024055,24,Other,Undergraduate,Google Classroom,3.1,82,Desktop,3,5,89,Never,6,6,3.39,Highly Effective
+STU_2024056,19,Female,Undergraduate,Canvas,5.9,59,Smartphone,5,4,78,Frequently,5,9,2.75,Highly Effective
+STU_2024057,23,Female,Undergraduate,Moodle,6.9,90,Desktop,3,4,87,Sometimes,5,8,3.59,Highly Effective
+STU_2024058,21,Male,Undergraduate,Zoom,4.3,53,Smartphone,4,3,66,Sometimes,6,5,2.03,Moderately Effective
+STU_2024059,24,Male,Undergraduate,Coursera,3.5,100,Smartphone,4,4,77,Sometimes,3,5,3.06,Highly Effective
+STU_2024060,22,Other,Undergraduate,Microsoft Teams,3.8,63,Laptop,3,2,66,Always,5,6,2.24,Moderately Effective
+STU_2024061,22,Female,Undergraduate,Canvas,8.7,70,Laptop,5,4,70,Sometimes,6,8,3.25,Highly Effective
+STU_2024062,22,Male,Undergraduate,Coursera,3.5,86,Laptop,5,5,86,Frequently,6,9,2.74,Highly Effective
+STU_2024063,19,Male,Undergraduate,Zoom,3.2,81,Laptop,5,4,79,Always,5,7,3.63,Highly Effective
+STU_2024064,21,Male,Undergraduate,Microsoft Teams,4.9,54,Laptop,4,5,92,Sometimes,4,8,2.7,Highly Effective
+STU_2024065,23,Female,Undergraduate,Google Classroom,3.7,30,Laptop,4,2,63,Sometimes,7,4,2.15,Moderately Effective
+STU_2024066,22,Male,Undergraduate,Coursera,5.8,71,Laptop,5,4,98,Frequently,7,8,2.72,Highly Effective
+STU_2024067,25,Male,Undergraduate,Google Meet,4.6,96,Desktop,4,4,100,Sometimes,4,6,3.28,Highly Effective
+STU_2024068,17,Female,High School,Google Meet,2.1,77,Desktop,4,3,75,Sometimes,6,6,2.52,Effective
+STU_2024069,20,Male,Undergraduate,Coursera,4.9,71,Smartphone,4,3,74,Rarely,7,9,2.74,Effective
+STU_2024070,16,Female,High School,Google Meet,1.5,72,Laptop,3,4,71,Sometimes,5,6,2.79,Effective
+STU_2024071,17,Female,High School,Coursera,5.8,61,Laptop,3,3,63,Frequently,5,7,2.5,Effective
+STU_2024072,19,Male,Undergraduate,Moodle,8.2,97,Laptop,5,4,86,Sometimes,6,10,3.24,Highly Effective
+STU_2024073,16,Female,High School,Zoom,3.6,76,Laptop,5,4,80,Always,6,8,2.11,Highly Effective
+STU_2024074,24,Male,Undergraduate,Coursera,3.6,84,Desktop,3,3,71,Frequently,4,6,2.5,Effective
+STU_2024075,17,Male,High School,Google Meet,3.7,59,Smartphone,4,4,82,Frequently,6,7,3.06,Effective
+STU_2024076,23,Male,Undergraduate,Canvas,7.8,89,Smartphone,5,4,65,Frequently,8,7,3.19,Highly Effective
+STU_2024077,16,Female,High School,Moodle,6.0,100,Tablet,5,4,78,Never,9,6,3.08,Highly Effective
+STU_2024078,25,Male,Undergraduate,Canvas,6.8,89,Smartphone,3,4,100,Frequently,7,7,3.08,Highly Effective
+STU_2024079,16,Male,High School,Microsoft Teams,3.7,71,Desktop,5,4,74,Rarely,7,8,2.82,Highly Effective
+STU_2024080,22,Female,Undergraduate,Google Meet,4.9,59,Smartphone,5,3,58,Frequently,4,8,2.62,Effective
+STU_2024081,20,Female,Undergraduate,Microsoft Teams,7.1,100,Desktop,4,5,100,Sometimes,7,8,3.59,Highly Effective
+STU_2024082,22,Female,Undergraduate,Moodle,5.2,100,Smartphone,3,4,100,Rarely,8,7,3.04,Highly Effective
+STU_2024083,18,Male,High School,Moodle,2.7,77,Laptop,5,4,86,Sometimes,6,8,3.52,Highly Effective
+STU_2024084,15,Female,High School,Canvas,3.3,73,Tablet,2,4,79,Frequently,4,4,3.14,Effective
+STU_2024085,23,Male,Undergraduate,Microsoft Teams,8.2,100,Smartphone,5,5,82,Always,7,9,3.5,Highly Effective
+STU_2024086,21,Female,Undergraduate,Google Classroom,7.7,89,Smartphone,4,4,96,Frequently,8,6,3.07,Highly Effective
+STU_2024087,24,Male,Undergraduate,Microsoft Teams,4.3,80,Smartphone,4,3,91,Always,5,4,3.33,Effective
+STU_2024088,21,Female,Undergraduate,Microsoft Teams,6.1,76,Laptop,3,4,99,Frequently,6,7,3.19,Highly Effective
+STU_2024089,21,Female,Undergraduate,Google Meet,2.6,100,Laptop,4,5,89,Always,4,9,3.32,Highly Effective
+STU_2024090,15,Other,High School,Zoom,2.4,67,Laptop,4,4,84,Frequently,4,8,3.21,Highly Effective
+STU_2024091,18,Male,High School,Coursera,6.4,65,Smartphone,4,3,60,Frequently,5,7,2.81,Effective
+STU_2024092,19,Male,Undergraduate,Canvas,7.3,69,Laptop,2,3,73,Frequently,7,6,3.15,Effective
+STU_2024093,20,Female,Undergraduate,Canvas,6.4,76,Smartphone,2,3,87,Frequently,8,5,3.4,Effective
+STU_2024094,22,Male,Undergraduate,Microsoft Teams,6.3,93,Laptop,3,4,83,Frequently,5,8,3.32,Highly Effective
+STU_2024095,24,Female,Undergraduate,Moodle,3.2,84,Laptop,3,4,100,Sometimes,6,5,3.56,Highly Effective
+STU_2024096,23,Male,Undergraduate,Google Meet,2.0,78,Tablet,1,3,100,Frequently,4,3,2.82,Effective
+STU_2024097,21,Female,Undergraduate,Microsoft Teams,3.8,84,Laptop,5,3,86,Always,6,7,3.48,Highly Effective
+STU_2024098,23,Female,Undergraduate,Coursera,3.9,73,Laptop,4,4,91,Always,7,6,3.48,Highly Effective
+STU_2024099,25,Male,Undergraduate,Moodle,3.4,81,Laptop,5,4,100,Frequently,7,6,3.24,Highly Effective
+STU_2024100,24,Female,Undergraduate,Zoom,9.1,68,Smartphone,3,5,68,Frequently,8,8,2.54,Highly Effective
+STU_2024101,20,Male,Undergraduate,Canvas,1.6,66,Smartphone,4,4,82,Frequently,5,6,3.28,Effective
+STU_2024102,15,Female,High School,Coursera,3.0,63,Smartphone,5,3,51,Always,6,7,2.66,Effective
+STU_2024103,25,Female,Undergraduate,Moodle,9.3,66,Smartphone,3,3,84,Frequently,7,6,2.71,Effective
+STU_2024104,25,Male,Undergraduate,Google Classroom,5.0,71,Laptop,5,4,95,Rarely,6,9,3.3,Highly Effective
+STU_2024105,20,Female,Undergraduate,Google Meet,4.1,49,Smartphone,3,2,48,Frequently,8,4,1.8,Moderately Effective
+STU_2024106,25,Male,Undergraduate,Google Classroom,4.3,69,Smartphone,3,4,85,Frequently,10,7,3.08,Effective
+STU_2024107,16,Female,High School,Coursera,6.4,97,Laptop,1,2,74,Rarely,9,4,3.03,Effective
+STU_2024108,24,Male,Undergraduate,Moodle,1.7,59,Smartphone,5,5,61,Frequently,3,8,3.26,Highly Effective
+STU_2024109,22,Male,Undergraduate,Moodle,8.3,100,Laptop,3,4,81,Always,9,8,2.6,Highly Effective
+STU_2024110,17,Male,High School,Google Classroom,7.3,76,Smartphone,5,4,87,Frequently,6,7,3.81,Highly Effective
+STU_2024111,17,Male,High School,Google Classroom,3.2,64,Desktop,1,3,86,Sometimes,6,7,2.82,Effective
+STU_2024112,15,Female,High School,Google Classroom,5.5,82,Tablet,3,3,90,Rarely,4,6,2.69,Effective
+STU_2024113,15,Male,High School,Google Classroom,6.9,59,Laptop,4,3,78,Sometimes,8,8,2.81,Effective
+STU_2024114,24,Female,Undergraduate,Google Classroom,4.7,58,Tablet,4,3,68,Never,5,5,3.09,Effective
+STU_2024115,17,Male,High School,Google Classroom,4.0,96,Smartphone,5,4,88,Always,6,9,3.34,Highly Effective
+STU_2024116,20,Female,Undergraduate,Google Classroom,2.0,76,Laptop,2,4,64,Rarely,4,6,3.27,Effective
+STU_2024117,25,Female,Undergraduate,Coursera,9.0,76,Smartphone,2,3,72,Never,4,6,3.52,Effective
+STU_2024118,15,Female,High School,Canvas,9.2,75,Smartphone,5,4,85,Frequently,9,8,2.74,Highly Effective
+STU_2024119,16,Male,High School,Microsoft Teams,6.2,93,Tablet,5,4,75,Always,7,5,3.07,Highly Effective
+STU_2024120,21,Female,Undergraduate,Zoom,2.9,74,Desktop,3,4,77,Frequently,7,7,3.31,Effective
+STU_2024121,22,Female,Undergraduate,Coursera,5.3,60,Desktop,5,4,91,Sometimes,7,5,2.86,Effective
+STU_2024122,17,Male,High School,Moodle,5.7,73,Tablet,3,4,73,Always,5,7,3.04,Effective
+STU_2024123,22,Male,Undergraduate,Canvas,2.1,84,Laptop,3,4,79,Never,9,7,3.42,Highly Effective
+STU_2024124,23,Female,Undergraduate,Coursera,4.4,91,Laptop,5,4,82,Always,6,5,3.4,Highly Effective
+STU_2024125,22,Other,Undergraduate,Coursera,7.0,77,Smartphone,2,4,57,Always,6,6,2.17,Effective
+STU_2024126,25,Female,Undergraduate,Canvas,2.5,78,Smartphone,5,4,97,Sometimes,6,8,2.7,Highly Effective
+STU_2024127,24,Male,Undergraduate,Google Classroom,9.8,83,Laptop,5,3,83,Always,7,6,2.67,Highly Effective
+STU_2024128,25,Male,Undergraduate,Moodle,6.5,76,Tablet,5,4,57,Rarely,8,8,3.03,Highly Effective
+STU_2024129,17,Female,High School,Google Meet,8.3,72,Laptop,2,3,86,Sometimes,10,4,2.46,Effective
+STU_2024130,16,Male,High School,Moodle,5.1,90,Smartphone,5,5,76,Never,9,8,3.08,Highly Effective
+STU_2024131,25,Male,Undergraduate,Canvas,6.4,63,Smartphone,4,4,68,Always,6,5,2.94,Effective
+STU_2024132,25,Female,Undergraduate,Microsoft Teams,1.9,59,Laptop,3,4,65,Frequently,4,6,2.18,Effective
+STU_2024133,21,Female,Undergraduate,Canvas,2.4,76,Smartphone,4,4,84,Always,6,8,2.78,Highly Effective
+STU_2024134,17,Male,High School,Zoom,3.0,100,Smartphone,4,5,100,Rarely,4,7,3.74,Highly Effective
+STU_2024135,18,Female,High School,Canvas,3.6,54,Laptop,4,3,68,Rarely,6,7,2.87,Effective
+STU_2024136,20,Male,Undergraduate,Canvas,1.8,62,Laptop,3,3,62,Frequently,6,7,2.28,Effective
+STU_2024137,24,Female,Undergraduate,Google Classroom,6.6,63,Laptop,5,5,83,Frequently,9,9,3.03,Highly Effective
+STU_2024138,20,Male,Undergraduate,Zoom,5.3,67,Smartphone,4,4,96,Frequently,10,7,3.22,Highly Effective
+STU_2024139,23,Male,Undergraduate,Google Meet,4.5,92,Smartphone,2,3,76,Always,7,7,2.66,Effective
+STU_2024140,24,Female,Undergraduate,Google Meet,6.4,60,Tablet,4,3,79,Frequently,9,7,2.52,Effective
+STU_2024141,25,Female,Undergraduate,Zoom,2.4,89,Desktop,3,4,83,Frequently,4,9,2.87,Highly Effective
+STU_2024142,15,Male,High School,Zoom,3.8,68,Laptop,3,3,87,Sometimes,9,5,3.27,Effective
+STU_2024143,25,Male,Undergraduate,Google Meet,4.6,91,Laptop,3,4,100,Frequently,5,6,2.76,Highly Effective
+STU_2024144,22,Female,Undergraduate,Canvas,8.1,82,Smartphone,4,3,56,Sometimes,6,5,3.37,Effective
+STU_2024145,17,Female,High School,Canvas,2.1,95,Desktop,4,3,92,Sometimes,8,5,2.98,Highly Effective
+STU_2024146,16,Male,High School,Zoom,1.8,84,Laptop,3,3,90,Frequently,6,6,2.85,Effective
+STU_2024147,23,Other,Undergraduate,Moodle,8.1,96,Laptop,3,3,97,Frequently,7,6,3.05,Highly Effective
+STU_2024148,24,Female,Undergraduate,Google Meet,8.1,92,Smartphone,5,4,100,Always,10,6,3.4,Highly Effective
+STU_2024149,19,Male,Undergraduate,Google Classroom,5.2,92,Laptop,4,4,79,Always,5,8,3.51,Highly Effective
+STU_2024150,19,Female,Undergraduate,Google Classroom,6.1,67,Laptop,1,2,66,Frequently,8,5,3.06,Moderately Effective
+STU_2024151,25,Male,Undergraduate,Coursera,3.8,72,Laptop,5,4,52,Never,6,6,3.14,Effective
+STU_2024152,19,Male,Undergraduate,Canvas,5.1,79,Smartphone,3,4,76,Rarely,5,5,2.34,Effective
+STU_2024153,19,Male,Undergraduate,Google Meet,3.6,69,Desktop,2,3,86,Frequently,8,4,3.05,Effective
+STU_2024154,22,Male,Undergraduate,Coursera,3.2,77,Smartphone,5,5,96,Frequently,6,9,3.44,Highly Effective
+STU_2024155,15,Male,High School,Zoom,4.9,94,Laptop,4,5,84,Frequently,4,9,3.16,Highly Effective
+STU_2024156,15,Female,High School,Zoom,5.0,59,Laptop,3,3,80,Never,6,6,2.89,Effective
+STU_2024157,21,Female,Undergraduate,Google Classroom,1.9,100,Smartphone,4,3,87,Rarely,6,5,2.72,Highly Effective
+STU_2024158,21,Female,Undergraduate,Microsoft Teams,7.8,79,Laptop,5,4,87,Always,7,10,3.81,Highly Effective
+STU_2024159,21,Male,Undergraduate,Google Meet,6.9,84,Desktop,4,2,76,Sometimes,5,6,3.26,Effective
+STU_2024160,17,Female,High School,Google Meet,1.5,63,Tablet,5,3,79,Rarely,4,6,2.63,Effective
+STU_2024161,25,Male,Undergraduate,Google Classroom,1.7,57,Laptop,5,4,74,Always,4,8,3.66,Effective
+STU_2024162,24,Female,Undergraduate,Zoom,6.8,85,Tablet,5,5,76,Sometimes,7,6,3.03,Highly Effective
+STU_2024163,17,Male,High School,Microsoft Teams,1.7,63,Smartphone,3,4,57,Sometimes,5,6,3.06,Effective
+STU_2024164,23,Female,Undergraduate,Coursera,7.2,93,Laptop,2,4,78,Frequently,8,6,3.3,Effective
+STU_2024165,20,Male,Undergraduate,Microsoft Teams,2.3,74,Tablet,3,3,70,Always,3,7,3.48,Effective
+STU_2024166,25,Male,Undergraduate,Microsoft Teams,7.7,73,Laptop,3,5,90,Frequently,9,7,2.32,Highly Effective
+STU_2024167,24,Male,Undergraduate,Microsoft Teams,4.9,82,Desktop,4,3,75,Frequently,7,6,2.93,Effective
+STU_2024168,22,Male,Undergraduate,Canvas,4.0,61,Desktop,3,4,80,Always,7,5,2.7,Effective
+STU_2024169,17,Female,High School,Moodle,6.9,60,Laptop,4,4,73,Always,10,6,2.45,Effective
+STU_2024170,17,Male,High School,Canvas,6.0,48,Laptop,4,4,66,Never,6,9,2.03,Effective
+STU_2024171,25,Female,Undergraduate,Google Classroom,7.0,85,Laptop,1,4,74,Frequently,7,5,2.65,Effective
+STU_2024172,22,Male,Undergraduate,Google Classroom,4.9,98,Laptop,3,4,93,Frequently,6,6,2.72,Highly Effective
+STU_2024173,17,Female,High School,Google Classroom,3.3,69,Smartphone,3,3,76,Always,5,5,2.93,Effective
+STU_2024174,18,Female,High School,Coursera,5.6,96,Tablet,2,3,76,Rarely,8,6,3.04,Effective
+STU_2024175,22,Male,Undergraduate,Google Meet,5.0,84,Tablet,4,4,93,Always,7,8,2.87,Highly Effective
+STU_2024176,15,Male,High School,Google Meet,7.6,80,Desktop,5,4,71,Frequently,10,7,2.38,Highly Effective
+STU_2024177,21,Male,Undergraduate,Canvas,3.3,85,Laptop,5,4,75,Rarely,8,9,3.0,Highly Effective
+STU_2024178,23,Male,Undergraduate,Canvas,4.3,86,Laptop,5,4,97,Frequently,6,8,3.24,Highly Effective
+STU_2024179,22,Male,Undergraduate,Canvas,4.0,86,Smartphone,3,4,87,Sometimes,5,8,3.3,Highly Effective
+STU_2024180,21,Male,Undergraduate,Google Meet,4.1,74,Laptop,5,4,61,Rarely,7,9,3.11,Highly Effective
+STU_2024181,23,Male,Undergraduate,Microsoft Teams,2.2,56,Laptop,5,3,70,Sometimes,5,7,2.17,Effective
+STU_2024182,23,Male,Undergraduate,Moodle,2.9,70,Smartphone,3,4,74,Sometimes,6,5,3.15,Effective
+STU_2024183,16,Female,High School,Moodle,4.6,67,Smartphone,2,3,86,Always,6,4,3.33,Effective
+STU_2024184,22,Female,Undergraduate,Coursera,5.5,70,Tablet,4,3,71,Sometimes,5,5,3.03,Effective
+STU_2024185,25,Male,Undergraduate,Zoom,3.8,73,Tablet,3,5,90,Always,5,8,3.73,Highly Effective
+STU_2024186,15,Male,High School,Microsoft Teams,3.1,85,Desktop,2,2,92,Frequently,3,6,3.23,Effective
+STU_2024187,19,Male,Undergraduate,Google Meet,4.0,59,Laptop,4,4,47,Always,5,7,2.82,Effective
+STU_2024188,20,Male,Undergraduate,Coursera,5.5,100,Smartphone,4,5,84,Never,8,10,3.28,Highly Effective
+STU_2024189,21,Other,Undergraduate,Canvas,4.3,90,Desktop,4,4,72,Frequently,6,6,3.24,Highly Effective
+STU_2024190,25,Male,Undergraduate,Zoom,9.6,74,Laptop,5,4,100,Frequently,9,7,3.28,Highly Effective
+STU_2024191,18,Male,High School,Canvas,4.3,74,Smartphone,3,3,79,Always,5,5,2.5,Effective
+STU_2024192,17,Male,High School,Google Meet,2.9,87,Laptop,5,5,91,Sometimes,7,7,2.98,Highly Effective
+STU_2024193,15,Male,High School,Moodle,4.3,89,Laptop,3,4,81,Frequently,3,7,2.82,Highly Effective
+STU_2024194,20,Female,Undergraduate,Microsoft Teams,5.7,42,Laptop,3,3,54,Rarely,7,5,2.79,Moderately Effective
+STU_2024195,17,Male,High School,Google Meet,7.8,65,Tablet,3,3,74,Sometimes,8,7,3.01,Effective
+STU_2024196,24,Female,Undergraduate,Microsoft Teams,4.6,46,Laptop,5,3,68,Sometimes,7,8,3.19,Effective
+STU_2024197,24,Female,Undergraduate,Canvas,4.6,84,Desktop,4,4,78,Frequently,5,7,2.76,Highly Effective
+STU_2024198,17,Female,High School,Google Classroom,3.2,87,Tablet,3,4,89,Frequently,4,5,3.23,Highly Effective
+STU_2024199,24,Female,Undergraduate,Coursera,9.3,62,Smartphone,5,4,67,Sometimes,8,7,2.3,Effective
+STU_2024200,18,Female,High School,Google Classroom,3.9,84,Laptop,5,3,83,Frequently,5,6,2.85,Highly Effective
+STU_2024201,24,Male,Undergraduate,Moodle,6.5,92,Smartphone,4,3,70,Rarely,6,7,2.98,Effective
+STU_2024202,24,Female,Undergraduate,Coursera,7.6,87,Smartphone,5,4,83,Sometimes,7,6,2.67,Highly Effective
+STU_2024203,17,Female,High School,Google Meet,3.4,85,Laptop,2,3,71,Sometimes,4,8,3.29,Effective
+STU_2024204,16,Female,High School,Google Meet,8.1,59,Laptop,3,5,97,Frequently,7,7,2.66,Highly Effective
+STU_2024205,25,Male,Undergraduate,Coursera,4.8,82,Laptop,3,4,81,Sometimes,9,5,2.8,Effective
+STU_2024206,22,Male,Undergraduate,Google Meet,1.7,55,Tablet,1,2,72,Sometimes,5,6,2.58,Moderately Effective
+STU_2024207,17,Male,High School,Canvas,8.0,81,Laptop,3,5,68,Rarely,10,6,3.23,Highly Effective
+STU_2024208,18,Female,High School,Google Classroom,0.7,65,Smartphone,3,3,73,Frequently,5,8,1.86,Effective
+STU_2024209,21,Male,Undergraduate,Microsoft Teams,4.1,77,Laptop,3,3,83,Frequently,5,6,2.77,Effective
+STU_2024210,25,Female,Undergraduate,Zoom,5.3,87,Smartphone,3,4,86,Frequently,3,6,3.32,Highly Effective
+STU_2024211,16,Female,High School,Google Classroom,4.1,91,Smartphone,2,3,84,Frequently,7,4,2.76,Effective
+STU_2024212,15,Male,High School,Google Meet,3.1,69,Tablet,3,3,62,Frequently,3,6,3.2,Effective
+STU_2024213,18,Male,High School,Zoom,7.5,97,Laptop,3,4,73,Sometimes,9,6,3.06,Highly Effective
+STU_2024214,22,Male,Undergraduate,Coursera,5.2,90,Laptop,5,4,99,Sometimes,6,7,2.65,Highly Effective
+STU_2024215,21,Male,Undergraduate,Google Classroom,4.9,83,Smartphone,2,4,100,Rarely,4,5,3.64,Highly Effective
+STU_2024216,25,Male,Undergraduate,Google Classroom,4.3,89,Laptop,3,3,89,Frequently,6,8,3.24,Highly Effective
+STU_2024217,25,Male,Undergraduate,Google Classroom,2.6,93,Laptop,3,4,67,Sometimes,5,5,3.58,Effective
+STU_2024218,19,Male,Undergraduate,Google Classroom,1.5,78,Tablet,2,3,75,Rarely,3,4,3.08,Effective
+STU_2024219,22,Male,Undergraduate,Moodle,3.4,93,Laptop,4,4,91,Never,7,8,3.01,Highly Effective
+STU_2024220,22,Female,Undergraduate,Moodle,8.5,100,Laptop,4,4,87,Sometimes,7,8,3.1,Highly Effective
+STU_2024221,16,Male,High School,Google Classroom,7.6,95,Smartphone,5,5,97,Sometimes,7,7,4.0,Highly Effective
+STU_2024222,20,Female,Undergraduate,Microsoft Teams,3.1,65,Laptop,4,3,58,Frequently,6,6,2.5,Effective
+STU_2024223,23,Male,Undergraduate,Moodle,8.0,100,Laptop,4,4,91,Sometimes,7,7,2.93,Highly Effective
+STU_2024224,19,Female,Undergraduate,Zoom,4.2,100,Desktop,2,3,88,Sometimes,6,6,2.86,Highly Effective
+STU_2024225,20,Female,Undergraduate,Google Meet,2.3,94,Laptop,2,4,78,Always,5,6,3.48,Highly Effective
+STU_2024226,20,Male,Undergraduate,Microsoft Teams,6.1,76,Smartphone,2,4,87,Frequently,9,7,3.16,Effective
+STU_2024227,22,Female,Undergraduate,Google Classroom,8.6,88,Smartphone,3,4,92,Frequently,8,8,2.66,Highly Effective
+STU_2024228,15,Female,High School,Coursera,2.2,75,Laptop,4,4,77,Always,4,8,3.13,Highly Effective
+STU_2024229,22,Male,Undergraduate,Zoom,4.5,81,Laptop,1,3,97,Rarely,2,6,2.82,Effective
+STU_2024230,25,Male,Undergraduate,Google Classroom,3.4,78,Smartphone,2,3,90,Rarely,5,8,2.63,Effective
+STU_2024231,20,Female,Undergraduate,Microsoft Teams,7.9,62,Laptop,4,4,66,Sometimes,8,8,2.65,Effective
+STU_2024232,22,Male,Undergraduate,Google Classroom,5.3,69,Smartphone,5,3,70,Sometimes,6,5,3.06,Effective
+STU_2024233,23,Female,Undergraduate,Coursera,1.3,56,Smartphone,4,4,74,Frequently,4,7,3.13,Effective
+STU_2024234,15,Female,High School,Moodle,6.7,77,Laptop,4,5,75,Sometimes,8,8,3.32,Highly Effective
+STU_2024235,18,Female,High School,Coursera,6.1,84,Tablet,4,2,91,Always,6,7,2.9,Effective
+STU_2024236,18,Male,High School,Coursera,4.0,58,Smartphone,3,3,64,Always,6,7,2.14,Effective
+STU_2024237,22,Male,Undergraduate,Moodle,2.2,76,Smartphone,4,4,100,Sometimes,5,8,3.55,Highly Effective
+STU_2024238,20,Female,Undergraduate,Moodle,7.8,88,Smartphone,5,3,95,Always,7,6,3.16,Highly Effective
+STU_2024239,19,Female,Undergraduate,Moodle,4.3,67,Smartphone,3,3,70,Always,4,5,2.63,Effective
+STU_2024240,25,Male,Undergraduate,Moodle,6.1,79,Laptop,1,3,75,Always,5,6,2.5,Effective
+STU_2024241,17,Male,High School,Coursera,3.2,45,Desktop,2,2,61,Always,5,6,3.1,Moderately Effective
+STU_2024242,16,Male,High School,Google Meet,7.5,72,Smartphone,3,4,88,Rarely,8,8,2.98,Highly Effective
+STU_2024243,21,Other,Undergraduate,Microsoft Teams,4.0,71,Smartphone,4,4,90,Frequently,4,7,3.2,Highly Effective
+STU_2024244,15,Female,High School,Canvas,2.4,58,Laptop,3,5,100,Always,7,5,3.91,Highly Effective
+STU_2024245,22,Male,Undergraduate,Microsoft Teams,2.8,83,Desktop,2,3,83,Frequently,6,5,2.43,Effective
+STU_2024246,19,Male,Undergraduate,Canvas,1.8,49,Laptop,3,3,58,Sometimes,6,5,2.18,Moderately Effective
+STU_2024247,18,Female,High School,Moodle,3.6,100,Laptop,3,4,81,Frequently,7,8,3.47,Highly Effective
+STU_2024248,17,Female,High School,Microsoft Teams,4.4,77,Laptop,3,4,81,Frequently,7,6,2.89,Effective
+STU_2024249,20,Male,Undergraduate,Microsoft Teams,5.2,53,Desktop,5,3,55,Always,7,4,2.7,Moderately Effective
+STU_2024250,22,Female,Undergraduate,Microsoft Teams,6.0,49,Desktop,5,4,62,Rarely,5,7,2.53,Effective
+STU_2024251,17,Other,High School,Coursera,1.7,95,Laptop,3,4,93,Frequently,4,6,3.82,Highly Effective
+STU_2024252,16,Female,High School,Zoom,3.8,75,Laptop,5,5,88,Frequently,4,7,3.4,Highly Effective
+STU_2024253,17,Male,High School,Zoom,8.1,100,Tablet,2,3,86,Sometimes,9,5,3.26,Effective
+STU_2024254,22,Male,Undergraduate,Microsoft Teams,3.5,90,Laptop,4,5,100,Sometimes,6,8,3.94,Highly Effective
+STU_2024255,19,Male,Undergraduate,Google Classroom,6.6,71,Laptop,5,5,69,Sometimes,3,7,3.69,Highly Effective
+STU_2024256,20,Female,Undergraduate,Microsoft Teams,2.2,44,Smartphone,4,4,52,Sometimes,5,9,2.87,Effective
+STU_2024257,16,Female,High School,Zoom,6.5,63,Laptop,3,3,78,Rarely,6,6,2.81,Effective
+STU_2024258,20,Male,Undergraduate,Canvas,4.5,52,Laptop,4,4,71,Sometimes,8,8,2.63,Effective
+STU_2024259,23,Female,Undergraduate,Moodle,3.4,80,Tablet,1,3,100,Frequently,7,6,3.25,Effective
+STU_2024260,18,Male,High School,Canvas,4.7,100,Smartphone,4,3,83,Sometimes,6,7,2.91,Highly Effective
+STU_2024261,24,Male,Undergraduate,Canvas,5.9,76,Smartphone,5,5,76,Sometimes,7,6,3.05,Highly Effective
+STU_2024262,24,Female,Undergraduate,Zoom,8.6,95,Desktop,4,3,83,Frequently,10,6,3.24,Highly Effective
+STU_2024263,20,Male,Undergraduate,Canvas,8.3,79,Smartphone,4,3,80,Always,8,7,2.56,Effective
+STU_2024264,20,Male,Undergraduate,Google Meet,4.6,70,Laptop,4,5,80,Always,4,8,2.86,Highly Effective
+STU_2024265,18,Male,High School,Google Meet,7.7,75,Tablet,5,3,91,Sometimes,5,7,3.08,Highly Effective
+STU_2024266,19,Male,Undergraduate,Zoom,3.0,71,Tablet,2,3,64,Sometimes,8,6,2.45,Effective
+STU_2024267,19,Male,Undergraduate,Microsoft Teams,4.5,92,Tablet,5,3,100,Frequently,7,8,2.86,Highly Effective
+STU_2024268,19,Female,Undergraduate,Coursera,2.6,81,Tablet,4,4,95,Sometimes,4,7,2.59,Highly Effective
+STU_2024269,22,Female,Undergraduate,Moodle,1.9,65,Laptop,5,4,70,Frequently,5,7,2.74,Effective
+STU_2024270,21,Male,Undergraduate,Microsoft Teams,4.5,97,Laptop,4,4,100,Frequently,5,7,3.32,Highly Effective
+STU_2024271,15,Male,High School,Moodle,7.4,80,Laptop,4,4,81,Never,8,8,2.9,Highly Effective
+STU_2024272,23,Male,Undergraduate,Canvas,5.8,100,Laptop,4,5,95,Always,6,8,3.37,Highly Effective
+STU_2024273,18,Male,High School,Moodle,1.4,66,Laptop,4,4,80,Frequently,4,7,2.51,Effective
+STU_2024274,24,Other,Undergraduate,Google Meet,6.9,89,Laptop,4,4,94,Frequently,8,8,3.67,Highly Effective
+STU_2024275,15,Female,High School,Google Meet,4.8,62,Laptop,4,3,83,Frequently,5,6,3.43,Effective
+STU_2024276,22,Female,Undergraduate,Moodle,6.9,96,Tablet,4,4,98,Always,9,6,2.84,Highly Effective
+STU_2024277,18,Female,High School,Google Meet,2.4,60,Laptop,5,3,72,Frequently,5,8,2.48,Effective
+STU_2024278,22,Other,Undergraduate,Canvas,1.8,87,Laptop,5,3,72,Sometimes,7,9,3.41,Highly Effective
+STU_2024279,15,Female,High School,Moodle,2.9,66,Smartphone,4,4,81,Frequently,5,8,3.3,Highly Effective
+STU_2024280,22,Female,Undergraduate,Microsoft Teams,4.5,51,Smartphone,3,4,83,Always,8,7,2.64,Effective
+STU_2024281,24,Male,Undergraduate,Zoom,3.0,66,Smartphone,1,3,65,Always,3,7,3.42,Effective
+STU_2024282,16,Male,High School,Microsoft Teams,3.4,68,Laptop,4,5,82,Frequently,4,10,3.07,Highly Effective
+STU_2024283,20,Male,Undergraduate,Google Meet,2.3,69,Smartphone,3,3,70,Always,4,2,2.49,Moderately Effective
+STU_2024284,15,Female,High School,Moodle,4.5,70,Smartphone,5,4,74,Sometimes,7,6,2.91,Effective
+STU_2024285,21,Female,Undergraduate,Moodle,4.4,73,Laptop,4,4,66,Frequently,10,8,2.89,Effective
+STU_2024286,15,Male,High School,Google Classroom,6.6,100,Tablet,5,4,76,Sometimes,6,6,3.78,Highly Effective
+STU_2024287,18,Male,High School,Canvas,5.3,58,Smartphone,4,4,88,Sometimes,8,6,3.41,Effective
+STU_2024288,19,Male,Undergraduate,Canvas,1.7,79,Smartphone,4,4,82,Frequently,4,8,3.87,Highly Effective
+STU_2024289,21,Female,Undergraduate,Coursera,6.0,93,Tablet,5,5,100,Frequently,5,6,3.57,Highly Effective
+STU_2024290,23,Female,Undergraduate,Microsoft Teams,6.1,66,Laptop,4,3,92,Always,5,6,2.7,Effective
+STU_2024291,17,Female,High School,Google Meet,7.4,68,Smartphone,5,4,95,Sometimes,6,10,2.81,Highly Effective
+STU_2024292,22,Male,Undergraduate,Moodle,5.9,81,Laptop,4,3,93,Always,5,6,2.86,Highly Effective
+STU_2024293,24,Male,Undergraduate,Google Meet,5.7,100,Laptop,5,4,74,Sometimes,6,8,3.44,Highly Effective
+STU_2024294,22,Male,Undergraduate,Google Meet,5.7,95,Smartphone,5,4,88,Rarely,7,7,3.29,Highly Effective
+STU_2024295,15,Female,High School,Coursera,9.0,82,Tablet,2,3,83,Frequently,7,5,3.25,Effective
+STU_2024296,24,Male,Undergraduate,Google Meet,3.2,68,Smartphone,4,3,80,Frequently,3,8,3.02,Effective
+STU_2024297,21,Male,Undergraduate,Google Meet,4.9,91,Laptop,4,4,93,Always,3,9,3.01,Highly Effective
+STU_2024298,25,Female,Undergraduate,Zoom,5.2,86,Smartphone,3,2,88,Sometimes,8,6,3.24,Effective
+STU_2024299,21,Female,Undergraduate,Canvas,2.6,66,Smartphone,3,3,72,Rarely,5,6,2.92,Effective
+STU_2024300,25,Male,Undergraduate,Google Meet,6.5,76,Laptop,4,4,51,Frequently,6,7,2.72,Effective
+STU_2024301,23,Male,Undergraduate,Google Classroom,7.4,76,Laptop,3,3,94,Frequently,6,4,2.75,Effective
+STU_2024302,25,Female,Undergraduate,Google Meet,3.3,56,Laptop,3,2,90,Sometimes,6,6,2.49,Effective
+STU_2024303,19,Male,Undergraduate,Canvas,4.8,82,Laptop,4,3,71,Frequently,6,6,3.06,Effective
+STU_2024304,16,Female,High School,Coursera,1.0,94,Smartphone,5,5,100,Rarely,4,6,3.32,Highly Effective
+STU_2024305,21,Male,Undergraduate,Google Classroom,2.8,63,Smartphone,2,3,92,Frequently,6,5,2.73,Effective
+STU_2024306,19,Female,Undergraduate,Microsoft Teams,4.3,100,Smartphone,4,4,81,Frequently,4,5,3.03,Highly Effective
+STU_2024307,16,Female,High School,Zoom,6.5,80,Laptop,5,4,72,Frequently,7,6,3.08,Highly Effective
+STU_2024308,17,Male,High School,Coursera,4.9,87,Tablet,4,4,100,Frequently,5,5,3.85,Highly Effective
+STU_2024309,23,Male,Undergraduate,Moodle,0.9,58,Laptop,5,3,63,Always,7,6,2.96,Effective
+STU_2024310,25,Male,Undergraduate,Moodle,3.2,82,Laptop,3,3,88,Always,3,10,2.61,Highly Effective
+STU_2024311,22,Male,Undergraduate,Google Classroom,2.0,95,Laptop,4,5,90,Frequently,6,9,3.65,Highly Effective
+STU_2024312,18,Female,High School,Microsoft Teams,5.6,77,Laptop,4,3,89,Rarely,3,5,3.6,Effective
+STU_2024313,25,Female,Undergraduate,Coursera,5.7,72,Laptop,4,4,82,Rarely,5,7,2.92,Highly Effective
+STU_2024314,19,Male,Undergraduate,Moodle,3.1,74,Tablet,4,3,95,Frequently,4,7,2.58,Highly Effective
+STU_2024315,24,Female,Undergraduate,Google Classroom,4.9,96,Smartphone,5,4,85,Frequently,7,7,2.92,Highly Effective
+STU_2024316,22,Male,Undergraduate,Google Classroom,4.7,64,Laptop,5,3,67,Frequently,6,6,2.83,Effective
+STU_2024317,24,Male,Undergraduate,Moodle,4.6,72,Smartphone,4,4,90,Never,7,8,3.75,Highly Effective
+STU_2024318,20,Female,Undergraduate,Microsoft Teams,1.7,70,Tablet,5,4,72,Frequently,4,6,2.78,Effective
+STU_2024319,21,Male,Undergraduate,Canvas,7.6,93,Smartphone,5,4,91,Frequently,9,6,3.67,Highly Effective
+STU_2024320,24,Female,Undergraduate,Moodle,3.3,65,Laptop,3,3,82,Frequently,7,5,2.49,Effective
+STU_2024321,20,Male,Undergraduate,Microsoft Teams,4.6,61,Smartphone,4,3,72,Frequently,7,7,3.04,Effective
+STU_2024322,24,Female,Undergraduate,Moodle,2.9,96,Laptop,4,4,100,Frequently,6,7,3.44,Highly Effective
+STU_2024323,22,Male,Undergraduate,Microsoft Teams,2.9,86,Tablet,5,3,86,Frequently,5,7,3.61,Highly Effective
+STU_2024324,20,Male,Undergraduate,Zoom,3.3,72,Smartphone,3,4,88,Sometimes,4,7,3.21,Highly Effective
+STU_2024325,22,Male,Undergraduate,Zoom,6.5,74,Laptop,4,4,91,Always,8,9,2.65,Highly Effective
+STU_2024326,25,Female,Undergraduate,Microsoft Teams,1.7,64,Laptop,5,4,79,Frequently,4,7,2.38,Highly Effective
+STU_2024327,24,Female,Undergraduate,Moodle,6.3,87,Laptop,4,4,77,Never,6,7,3.08,Highly Effective
+STU_2024328,23,Female,Undergraduate,Google Classroom,3.1,82,Laptop,2,3,67,Sometimes,6,4,2.81,Effective
+STU_2024329,24,Female,Undergraduate,Google Meet,3.1,59,Laptop,3,3,58,Always,5,4,2.41,Moderately Effective
+STU_2024330,21,Male,Undergraduate,Coursera,2.5,79,Tablet,5,5,97,Frequently,6,9,2.79,Highly Effective
+STU_2024331,25,Male,Undergraduate,Moodle,5.4,89,Laptop,4,3,80,Sometimes,6,5,3.38,Effective
+STU_2024332,21,Male,Undergraduate,Microsoft Teams,4.8,74,Smartphone,5,3,85,Sometimes,4,7,3.45,Highly Effective
+STU_2024333,23,Female,Undergraduate,Google Classroom,4.7,72,Tablet,4,3,65,Always,8,7,2.91,Effective
+STU_2024334,21,Female,Undergraduate,Microsoft Teams,3.1,100,Laptop,5,4,74,Frequently,5,6,3.09,Highly Effective
+STU_2024335,19,Female,Undergraduate,Moodle,4.2,88,Smartphone,4,4,73,Sometimes,5,8,3.42,Highly Effective
+STU_2024336,19,Male,Undergraduate,Coursera,3.4,63,Tablet,4,4,76,Frequently,7,6,2.2,Effective
+STU_2024337,15,Male,High School,Canvas,5.4,100,Laptop,3,4,80,Frequently,10,9,3.19,Highly Effective
+STU_2024338,18,Female,High School,Microsoft Teams,6.8,100,Smartphone,4,5,80,Sometimes,9,10,3.12,Highly Effective
+STU_2024339,18,Male,High School,Moodle,3.3,76,Laptop,5,5,90,Frequently,4,8,3.34,Highly Effective
+STU_2024340,25,Male,Undergraduate,Google Classroom,4.9,96,Tablet,4,4,55,Always,6,8,2.82,Highly Effective
+STU_2024341,23,Female,Undergraduate,Moodle,2.6,60,Tablet,5,4,85,Always,6,8,2.53,Highly Effective
+STU_2024342,16,Male,High School,Microsoft Teams,1.0,67,Laptop,2,3,59,Sometimes,7,6,3.0,Moderately Effective
+STU_2024343,24,Female,Undergraduate,Moodle,3.1,72,Smartphone,5,3,75,Rarely,7,6,2.72,Effective
+STU_2024344,16,Male,High School,Coursera,4.3,72,Laptop,5,4,92,Sometimes,8,3,3.0,Effective
+STU_2024345,25,Male,Undergraduate,Google Meet,4.6,79,Laptop,1,4,88,Sometimes,7,6,3.74,Effective
+STU_2024346,16,Female,High School,Canvas,4.0,52,Laptop,3,3,58,Frequently,7,5,2.3,Moderately Effective
+STU_2024347,25,Male,Undergraduate,Moodle,3.6,69,Desktop,5,5,76,Frequently,6,5,3.27,Highly Effective
+STU_2024348,17,Male,High School,Canvas,5.3,53,Laptop,2,4,65,Frequently,7,6,2.28,Effective
+STU_2024349,21,Female,Undergraduate,Microsoft Teams,8.1,84,Tablet,4,3,93,Rarely,10,6,3.2,Highly Effective
+STU_2024350,16,Female,High School,Microsoft Teams,2.0,89,Laptop,1,3,68,Rarely,7,5,3.16,Effective
+STU_2024351,25,Male,Undergraduate,Microsoft Teams,3.4,73,Laptop,2,4,81,Frequently,5,7,2.8,Effective
+STU_2024352,22,Female,Undergraduate,Coursera,3.5,40,Smartphone,4,4,72,Frequently,8,6,2.29,Effective
+STU_2024353,23,Male,Undergraduate,Zoom,3.9,52,Laptop,4,3,61,Sometimes,7,9,2.6,Effective
+STU_2024354,17,Female,High School,Microsoft Teams,5.8,56,Smartphone,3,3,71,Frequently,4,6,2.33,Effective
+STU_2024355,18,Female,High School,Zoom,3.4,72,Laptop,5,3,77,Frequently,6,4,2.8,Effective
+STU_2024356,24,Male,Undergraduate,Google Meet,5.5,69,Laptop,3,3,81,Rarely,7,5,2.94,Effective
+STU_2024357,24,Male,Undergraduate,Canvas,1.8,65,Laptop,2,3,71,Frequently,7,6,2.95,Effective
+STU_2024358,22,Female,Undergraduate,Microsoft Teams,6.6,99,Laptop,5,4,80,Always,9,9,3.37,Highly Effective
+STU_2024359,16,Male,High School,Moodle,7.0,94,Laptop,2,2,84,Frequently,6,3,3.17,Effective
+STU_2024360,15,Female,High School,Google Meet,4.8,96,Tablet,4,4,86,Frequently,7,10,3.43,Highly Effective
+STU_2024361,23,Female,Undergraduate,Microsoft Teams,3.1,99,Smartphone,3,3,100,Sometimes,7,7,3.42,Highly Effective
+STU_2024362,16,Female,High School,Moodle,1.7,78,Laptop,4,3,76,Rarely,6,8,3.18,Effective
+STU_2024363,25,Female,Undergraduate,Canvas,5.9,83,Smartphone,3,3,100,Frequently,6,6,2.7,Highly Effective
+STU_2024364,18,Female,High School,Microsoft Teams,2.6,90,Laptop,4,3,79,Sometimes,8,7,3.28,Highly Effective
+STU_2024365,22,Female,Undergraduate,Coursera,7.2,93,Smartphone,4,5,98,Sometimes,5,8,2.99,Highly Effective
+STU_2024366,17,Male,High School,Zoom,6.4,83,Tablet,4,5,76,Frequently,6,6,3.21,Highly Effective
+STU_2024367,24,Female,Undergraduate,Microsoft Teams,2.4,70,Smartphone,5,4,95,Sometimes,8,7,3.0,Highly Effective
+STU_2024368,24,Male,Undergraduate,Microsoft Teams,4.8,76,Smartphone,3,3,75,Always,6,6,3.29,Effective
+STU_2024369,16,Female,High School,Google Meet,5.0,94,Laptop,3,3,81,Sometimes,4,6,3.16,Effective
+STU_2024370,19,Female,Undergraduate,Moodle,2.3,73,Desktop,3,3,68,Frequently,5,7,3.39,Effective
+STU_2024371,21,Male,Undergraduate,Coursera,3.9,56,Smartphone,5,4,76,Sometimes,7,7,2.99,Effective
+STU_2024372,24,Female,Undergraduate,Canvas,4.9,100,Desktop,4,4,77,Sometimes,4,7,3.73,Highly Effective
+STU_2024373,21,Male,Undergraduate,Google Meet,8.5,70,Laptop,4,4,95,Frequently,7,8,3.0,Highly Effective
+STU_2024374,19,Other,Undergraduate,Moodle,1.3,84,Tablet,3,3,67,Always,4,6,3.06,Effective
+STU_2024375,20,Female,Undergraduate,Canvas,5.1,83,Laptop,2,5,66,Frequently,8,7,2.5,Highly Effective
+STU_2024376,17,Male,High School,Google Meet,6.8,100,Smartphone,1,4,96,Frequently,6,7,3.17,Highly Effective
+STU_2024377,21,Female,Undergraduate,Coursera,6.4,81,Laptop,5,3,69,Rarely,5,6,2.89,Effective
+STU_2024378,24,Female,Undergraduate,Zoom,2.8,52,Smartphone,5,2,65,Rarely,4,4,2.82,Moderately Effective
+STU_2024379,17,Female,High School,Google Classroom,6.2,70,Smartphone,3,3,58,Frequently,8,5,2.75,Effective
+STU_2024380,21,Male,Undergraduate,Moodle,9.6,75,Smartphone,3,3,61,Frequently,9,7,2.99,Effective
+STU_2024381,20,Female,Undergraduate,Canvas,5.6,82,Laptop,3,3,90,Frequently,4,3,3.35,Effective
+STU_2024382,18,Female,High School,Canvas,6.1,100,Laptop,3,4,87,Always,6,6,3.59,Highly Effective
+STU_2024383,16,Female,High School,Microsoft Teams,3.1,67,Laptop,4,4,76,Frequently,7,8,3.33,Highly Effective
+STU_2024384,15,Female,High School,Google Meet,3.4,86,Smartphone,4,4,84,Always,7,9,3.32,Highly Effective
+STU_2024385,25,Male,Undergraduate,Google Meet,2.4,67,Laptop,3,5,94,Frequently,5,9,2.93,Highly Effective
+STU_2024386,24,Male,Undergraduate,Moodle,8.6,63,Laptop,1,2,78,Frequently,7,5,2.58,Moderately Effective
+STU_2024387,25,Female,Undergraduate,Google Meet,9.5,98,Laptop,2,3,88,Always,9,9,3.02,Highly Effective
+STU_2024388,19,Female,Undergraduate,Canvas,5.6,93,Tablet,5,5,79,Sometimes,5,8,3.53,Highly Effective
+STU_2024389,19,Male,Undergraduate,Canvas,2.6,65,Laptop,4,3,75,Frequently,6,9,2.34,Effective
+STU_2024390,21,Other,Undergraduate,Coursera,8.0,95,Laptop,4,4,95,Sometimes,7,9,2.85,Highly Effective
+STU_2024391,20,Male,Undergraduate,Microsoft Teams,3.7,77,Desktop,4,2,75,Sometimes,5,6,2.87,Effective
+STU_2024392,24,Male,Undergraduate,Zoom,3.3,80,Smartphone,3,5,81,Frequently,4,6,2.91,Highly Effective
+STU_2024393,20,Female,Undergraduate,Microsoft Teams,2.6,77,Smartphone,5,4,91,Sometimes,6,7,2.04,Highly Effective
+STU_2024394,18,Female,High School,Microsoft Teams,4.6,71,Tablet,3,4,76,Frequently,6,6,3.18,Effective
+STU_2024395,24,Male,Undergraduate,Zoom,4.8,98,Smartphone,4,3,67,Never,7,8,3.02,Highly Effective
+STU_2024396,21,Other,Undergraduate,Google Classroom,4.7,76,Smartphone,3,3,70,Always,7,5,2.94,Effective
+STU_2024397,24,Male,Undergraduate,Google Meet,2.7,84,Smartphone,4,3,98,Always,7,6,2.85,Highly Effective
+STU_2024398,21,Female,Undergraduate,Google Classroom,5.2,77,Laptop,4,3,79,Always,9,7,2.31,Effective
+STU_2024399,16,Female,High School,Google Meet,4.0,63,Laptop,5,4,46,Sometimes,6,6,3.19,Effective
+STU_2024400,20,Male,Undergraduate,Google Meet,2.8,92,Tablet,2,4,81,Always,8,6,3.35,Highly Effective
+STU_2024401,17,Other,High School,Google Classroom,3.4,49,Smartphone,4,4,94,Sometimes,6,6,2.64,Effective
+STU_2024402,21,Female,Undergraduate,Zoom,3.4,57,Smartphone,4,3,71,Rarely,5,6,2.65,Effective
+STU_2024403,15,Male,High School,Coursera,3.8,84,Smartphone,5,4,90,Frequently,7,7,2.69,Highly Effective
+STU_2024404,23,Female,Undergraduate,Microsoft Teams,4.0,100,Smartphone,3,4,100,Frequently,4,7,3.27,Highly Effective
+STU_2024405,22,Female,Undergraduate,Google Meet,3.8,69,Tablet,3,4,93,Always,7,6,2.97,Effective
+STU_2024406,24,Male,Undergraduate,Google Meet,5.3,73,Laptop,5,5,79,Frequently,7,6,3.04,Highly Effective
+STU_2024407,22,Male,Undergraduate,Zoom,3.6,80,Laptop,4,4,89,Sometimes,3,6,2.94,Highly Effective
+STU_2024408,15,Female,High School,Zoom,3.2,62,Tablet,3,3,81,Frequently,6,6,2.62,Effective
+STU_2024409,20,Female,Undergraduate,Google Meet,8.5,90,Smartphone,5,4,100,Frequently,7,8,3.26,Highly Effective
+STU_2024410,17,Male,High School,Coursera,3.8,81,Smartphone,4,3,86,Frequently,5,6,3.41,Effective
+STU_2024411,18,Male,High School,Canvas,7.5,59,Tablet,3,5,100,Frequently,8,8,2.65,Highly Effective
+STU_2024412,21,Female,Undergraduate,Google Classroom,6.2,78,Tablet,1,2,64,Sometimes,8,2,2.95,Moderately Effective
+STU_2024413,18,Male,High School,Moodle,6.5,88,Laptop,4,2,94,Frequently,7,7,3.67,Highly Effective
+STU_2024414,23,Female,Undergraduate,Canvas,7.3,98,Laptop,4,2,98,Sometimes,9,5,2.57,Highly Effective
+STU_2024415,15,Female,High School,Google Classroom,5.2,94,Smartphone,1,4,72,Sometimes,6,5,3.02,Effective
+STU_2024416,18,Female,High School,Moodle,4.8,82,Laptop,3,3,84,Always,7,5,2.9,Effective
+STU_2024417,23,Female,Undergraduate,Canvas,8.2,91,Laptop,3,3,75,Frequently,10,6,2.96,Effective
+STU_2024418,25,Female,Undergraduate,Microsoft Teams,4.3,87,Laptop,4,5,99,Frequently,4,7,3.98,Highly Effective
+STU_2024419,25,Male,Undergraduate,Google Classroom,6.3,74,Desktop,5,4,92,Sometimes,6,7,2.56,Highly Effective
+STU_2024420,22,Female,Undergraduate,Moodle,7.6,83,Laptop,3,4,94,Always,6,6,3.51,Highly Effective
+STU_2024421,16,Female,High School,Canvas,7.0,80,Smartphone,4,4,71,Frequently,7,8,3.29,Highly Effective
+STU_2024422,16,Male,High School,Zoom,5.2,81,Smartphone,3,4,79,Sometimes,6,6,2.73,Effective
+STU_2024423,21,Male,Undergraduate,Canvas,3.3,74,Smartphone,5,4,68,Frequently,5,6,3.1,Effective
+STU_2024424,22,Female,Undergraduate,Microsoft Teams,2.4,86,Laptop,3,3,65,Rarely,5,7,2.3,Effective
+STU_2024425,25,Male,Undergraduate,Coursera,2.7,61,Laptop,4,3,78,Sometimes,8,4,2.39,Effective
+STU_2024426,19,Male,Undergraduate,Microsoft Teams,7.8,100,Smartphone,4,4,69,Always,7,10,3.47,Highly Effective
+STU_2024427,15,Female,High School,Zoom,4.0,97,Tablet,3,3,84,Sometimes,4,5,3.4,Effective
+STU_2024428,23,Female,Undergraduate,Moodle,3.0,51,Smartphone,5,5,96,Frequently,10,8,2.99,Highly Effective
+STU_2024429,15,Female,High School,Microsoft Teams,8.8,91,Smartphone,5,4,100,Frequently,5,9,3.07,Highly Effective
+STU_2024430,22,Male,Undergraduate,Zoom,4.1,81,Tablet,1,4,64,Frequently,6,6,3.81,Effective
+STU_2024431,24,Female,Undergraduate,Google Classroom,5.9,94,Smartphone,4,4,100,Always,8,9,3.16,Highly Effective
+STU_2024432,22,Male,Undergraduate,Zoom,2.2,51,Tablet,5,4,85,Frequently,6,7,2.94,Effective
+STU_2024433,20,Male,Undergraduate,Google Classroom,4.7,55,Smartphone,4,4,93,Sometimes,5,10,3.1,Highly Effective
+STU_2024434,19,Male,Undergraduate,Zoom,5.4,63,Laptop,4,3,67,Never,9,6,2.69,Effective
+STU_2024435,16,Male,High School,Canvas,5.3,78,Laptop,4,4,61,Frequently,4,6,2.74,Effective
+STU_2024436,17,Female,High School,Google Meet,3.0,73,Laptop,5,4,96,Always,5,8,2.6,Highly Effective
+STU_2024437,21,Male,Undergraduate,Moodle,6.0,91,Smartphone,5,5,100,Frequently,7,9,3.47,Highly Effective
+STU_2024438,22,Female,Undergraduate,Google Meet,7.9,86,Desktop,3,5,88,Sometimes,9,7,3.81,Highly Effective
+STU_2024439,21,Male,Undergraduate,Zoom,1.7,93,Smartphone,5,4,64,Always,6,7,3.36,Highly Effective
+STU_2024440,16,Female,High School,Zoom,6.4,81,Laptop,4,3,84,Frequently,8,7,3.32,Highly Effective
+STU_2024441,25,Female,Undergraduate,Google Classroom,2.3,88,Laptop,3,4,85,Never,6,9,3.61,Highly Effective
+STU_2024442,25,Male,Undergraduate,Moodle,5.5,78,Desktop,5,4,94,Always,8,4,2.69,Highly Effective
+STU_2024443,16,Male,High School,Canvas,5.6,95,Laptop,5,5,95,Frequently,4,8,3.17,Highly Effective
+STU_2024444,16,Female,High School,Google Classroom,3.8,100,Laptop,3,4,79,Always,6,6,3.11,Highly Effective
+STU_2024445,22,Female,Undergraduate,Zoom,3.2,56,Tablet,4,2,70,Frequently,6,6,2.95,Moderately Effective
+STU_2024446,22,Female,Undergraduate,Google Meet,1.6,68,Laptop,3,4,77,Frequently,5,7,2.58,Effective
+STU_2024447,21,Male,Undergraduate,Coursera,2.0,77,Tablet,4,4,83,Frequently,4,8,3.09,Highly Effective
+STU_2024448,19,Female,Undergraduate,Google Meet,5.5,61,Desktop,3,4,85,Sometimes,4,7,3.39,Effective
+STU_2024449,21,Male,Undergraduate,Canvas,7.6,74,Smartphone,2,3,64,Rarely,5,6,3.38,Effective
+STU_2024450,24,Female,Undergraduate,Microsoft Teams,4.9,73,Laptop,5,5,45,Never,8,10,3.15,Highly Effective
+STU_2024451,15,Female,High School,Moodle,5.6,59,Tablet,5,4,83,Always,8,8,2.89,Highly Effective
+STU_2024452,25,Female,Undergraduate,Zoom,5.9,87,Laptop,1,3,76,Sometimes,9,6,3.33,Effective
+STU_2024453,16,Female,High School,Zoom,3.2,82,Tablet,5,3,99,Sometimes,5,8,3.0,Highly Effective
+STU_2024454,17,Female,High School,Coursera,1.7,77,Laptop,3,4,82,Sometimes,4,7,3.33,Highly Effective
+STU_2024455,24,Female,Undergraduate,Google Classroom,5.4,74,Tablet,5,4,82,Always,6,7,2.57,Highly Effective
+STU_2024456,19,Female,Undergraduate,Coursera,4.5,85,Tablet,3,4,77,Sometimes,6,6,2.66,Effective
+STU_2024457,22,Male,Undergraduate,Google Classroom,6.5,81,Smartphone,3,4,94,Rarely,8,5,3.54,Highly Effective
+STU_2024458,23,Male,Undergraduate,Microsoft Teams,5.6,79,Tablet,5,4,70,Frequently,3,8,3.56,Highly Effective
+STU_2024459,15,Female,High School,Canvas,4.3,65,Laptop,5,5,98,Always,7,9,3.65,Highly Effective
+STU_2024460,22,Male,Undergraduate,Google Classroom,6.0,70,Tablet,3,3,71,Frequently,5,6,2.99,Effective
+STU_2024461,21,Male,Undergraduate,Microsoft Teams,2.1,71,Tablet,4,4,82,Sometimes,7,6,3.25,Effective
+STU_2024462,18,Male,High School,Canvas,2.6,74,Laptop,2,3,85,Sometimes,4,4,3.57,Effective
+STU_2024463,24,Female,Undergraduate,Coursera,5.3,99,Smartphone,5,5,100,Frequently,8,10,3.38,Highly Effective
+STU_2024464,22,Female,Undergraduate,Google Meet,7.3,83,Laptop,3,4,100,Always,5,8,2.98,Highly Effective
+STU_2024465,15,Female,High School,Microsoft Teams,4.7,66,Smartphone,5,4,75,Frequently,6,9,3.22,Highly Effective
+STU_2024466,21,Male,Undergraduate,Moodle,3.3,80,Laptop,4,4,90,Frequently,7,4,2.6,Effective
+STU_2024467,22,Male,Undergraduate,Coursera,3.0,91,Smartphone,4,3,100,Sometimes,6,6,2.73,Highly Effective
+STU_2024468,19,Female,Undergraduate,Canvas,5.3,71,Smartphone,4,3,68,Always,5,4,2.77,Effective
+STU_2024469,20,Male,Undergraduate,Google Classroom,4.5,93,Laptop,4,4,85,Frequently,4,8,3.5,Highly Effective
+STU_2024470,23,Female,Undergraduate,Microsoft Teams,6.2,97,Smartphone,5,3,88,Always,5,5,3.15,Highly Effective
+STU_2024471,15,Female,High School,Canvas,4.7,87,Smartphone,4,3,95,Sometimes,3,5,3.53,Highly Effective
+STU_2024472,16,Female,High School,Microsoft Teams,4.1,95,Laptop,2,5,96,Rarely,7,7,3.56,Highly Effective
+STU_2024473,25,Female,Undergraduate,Microsoft Teams,4.9,89,Desktop,4,4,81,Rarely,5,8,3.0,Highly Effective
+STU_2024474,23,Male,Undergraduate,Microsoft Teams,5.6,84,Smartphone,4,3,67,Sometimes,6,4,2.63,Effective
+STU_2024475,19,Female,Undergraduate,Canvas,4.0,71,Laptop,2,5,76,Frequently,10,8,3.36,Highly Effective
+STU_2024476,17,Other,High School,Coursera,7.7,86,Smartphone,2,3,98,Sometimes,7,5,3.22,Effective
+STU_2024477,15,Male,High School,Canvas,4.4,97,Laptop,2,3,100,Frequently,7,8,2.9,Highly Effective
+STU_2024478,17,Female,High School,Google Meet,4.7,71,Smartphone,5,3,96,Always,6,6,2.39,Highly Effective
+STU_2024479,22,Female,Undergraduate,Google Classroom,7.6,96,Smartphone,3,4,71,Sometimes,9,7,3.17,Highly Effective
+STU_2024480,25,Female,Undergraduate,Zoom,8.1,84,Laptop,4,4,68,Rarely,8,6,2.99,Effective
+STU_2024481,20,Male,Undergraduate,Zoom,7.7,78,Desktop,5,4,74,Sometimes,8,5,3.75,Effective
+STU_2024482,23,Female,Undergraduate,Google Meet,6.2,67,Tablet,3,4,74,Frequently,3,5,3.35,Effective
+STU_2024483,24,Female,Undergraduate,Moodle,9.2,72,Laptop,5,4,70,Never,7,7,2.72,Highly Effective
+STU_2024484,17,Male,High School,Google Meet,7.8,93,Smartphone,3,5,70,Sometimes,7,6,3.03,Highly Effective
+STU_2024485,22,Female,Undergraduate,Coursera,3.5,100,Laptop,4,4,78,Sometimes,3,5,3.34,Highly Effective
+STU_2024486,18,Female,High School,Coursera,9.4,100,Laptop,4,4,70,Frequently,7,5,3.27,Highly Effective
+STU_2024487,16,Female,High School,Google Meet,7.0,85,Smartphone,3,4,90,Rarely,6,6,3.52,Highly Effective
+STU_2024488,20,Female,Undergraduate,Canvas,8.1,59,Smartphone,3,3,87,Frequently,9,8,2.24,Effective
+STU_2024489,25,Male,Undergraduate,Canvas,5.8,97,Smartphone,5,5,100,Sometimes,7,7,3.43,Highly Effective
+STU_2024490,17,Female,High School,Moodle,6.9,88,Smartphone,4,3,100,Frequently,6,6,2.5,Highly Effective
+STU_2024491,21,Female,Undergraduate,Google Classroom,2.6,90,Laptop,4,4,96,Always,7,4,3.06,Highly Effective
+STU_2024492,17,Male,High School,Google Classroom,2.5,92,Smartphone,4,5,88,Always,6,6,3.6,Highly Effective
+STU_2024493,16,Female,High School,Coursera,4.3,80,Smartphone,4,4,72,Always,5,8,3.14,Highly Effective
+STU_2024494,15,Male,High School,Coursera,5.2,71,Laptop,4,3,83,Frequently,6,6,3.34,Effective
+STU_2024495,20,Female,Undergraduate,Zoom,5.3,74,Tablet,5,4,82,Frequently,5,8,3.0,Highly Effective
+STU_2024496,23,Female,Undergraduate,Google Meet,3.2,53,Laptop,3,3,57,Always,5,7,2.94,Moderately Effective
+STU_2024497,21,Female,Undergraduate,Zoom,2.4,83,Laptop,2,3,95,Frequently,7,5,2.98,Effective
+STU_2024498,20,Male,Undergraduate,Microsoft Teams,5.2,64,Laptop,4,5,69,Always,6,8,3.13,Highly Effective
+STU_2024499,22,Male,Undergraduate,Canvas,9.7,79,Laptop,4,4,80,Rarely,7,6,3.31,Highly Effective
+STU_2024500,16,Male,High School,Moodle,8.8,75,Laptop,5,5,100,Frequently,10,8,3.67,Highly Effective
+STU_2024501,24,Male,Undergraduate,Coursera,5.5,66,Tablet,4,4,65,Sometimes,7,7,2.69,Effective
+STU_2024502,19,Male,Undergraduate,Moodle,2.6,80,Smartphone,2,3,66,Sometimes,2,5,2.81,Effective
+STU_2024503,24,Male,Undergraduate,Coursera,6.2,84,Laptop,3,2,71,Sometimes,5,4,3.43,Effective
+STU_2024504,23,Female,Undergraduate,Coursera,4.3,91,Laptop,3,3,75,Never,7,4,2.76,Effective
+STU_2024505,19,Male,Undergraduate,Moodle,2.6,72,Smartphone,2,2,65,Frequently,3,4,2.6,Moderately Effective
+STU_2024506,17,Male,High School,Microsoft Teams,5.2,64,Laptop,5,5,78,Frequently,7,9,3.25,Highly Effective
+STU_2024507,24,Female,Undergraduate,Google Meet,2.3,68,Laptop,3,4,73,Frequently,4,4,2.56,Effective
+STU_2024508,16,Male,High School,Google Classroom,1.3,66,Laptop,5,5,56,Sometimes,4,7,2.58,Effective
+STU_2024509,20,Female,Undergraduate,Microsoft Teams,2.3,53,Laptop,3,3,46,Frequently,5,7,2.85,Moderately Effective
+STU_2024510,21,Female,Undergraduate,Google Meet,6.5,92,Tablet,3,3,100,Sometimes,8,6,3.66,Highly Effective
+STU_2024511,16,Male,High School,Zoom,3.8,100,Laptop,4,5,100,Frequently,8,7,4.0,Highly Effective
+STU_2024512,21,Male,Undergraduate,Canvas,4.2,67,Laptop,5,3,75,Frequently,6,8,2.46,Effective
+STU_2024513,18,Male,High School,Coursera,4.5,96,Smartphone,4,4,92,Frequently,4,6,3.01,Highly Effective
+STU_2024514,20,Female,Undergraduate,Moodle,5.8,76,Laptop,3,4,83,Sometimes,6,5,3.39,Effective
+STU_2024515,25,Female,Undergraduate,Google Meet,4.2,86,Smartphone,3,4,92,Frequently,4,5,3.42,Highly Effective
+STU_2024516,15,Female,High School,Canvas,3.4,84,Laptop,3,3,100,Frequently,3,9,3.23,Highly Effective
+STU_2024517,16,Female,High School,Canvas,7.6,72,Tablet,4,4,100,Frequently,9,7,3.13,Highly Effective
+STU_2024518,23,Male,Undergraduate,Zoom,5.1,83,Smartphone,4,3,95,Frequently,7,5,3.62,Effective
+STU_2024519,21,Male,Undergraduate,Google Meet,4.3,84,Laptop,5,4,76,Frequently,6,6,3.11,Highly Effective
+STU_2024520,16,Female,High School,Microsoft Teams,3.4,73,Smartphone,2,4,68,Sometimes,6,5,2.36,Effective
+STU_2024521,15,Male,High School,Google Meet,1.8,94,Tablet,3,3,73,Frequently,7,8,2.72,Highly Effective
+STU_2024522,23,Male,Undergraduate,Coursera,1.0,100,Laptop,5,4,83,Frequently,8,7,3.87,Highly Effective
+STU_2024523,17,Male,High School,Google Meet,6.7,66,Laptop,3,2,89,Frequently,8,5,1.89,Effective
+STU_2024524,20,Male,Undergraduate,Coursera,2.8,76,Laptop,4,4,79,Sometimes,4,6,2.52,Effective
+STU_2024525,25,Male,Undergraduate,Google Meet,5.5,90,Laptop,3,4,82,Sometimes,6,6,2.59,Highly Effective
+STU_2024526,25,Male,Undergraduate,Coursera,4.2,94,Smartphone,5,4,94,Frequently,7,7,3.48,Highly Effective
+STU_2024527,16,Female,High School,Moodle,4.0,88,Laptop,1,2,96,Frequently,6,5,3.12,Effective
+STU_2024528,22,Female,Undergraduate,Google Meet,1.8,60,Tablet,2,2,75,Frequently,5,7,2.69,Moderately Effective
+STU_2024529,22,Male,Undergraduate,Microsoft Teams,6.0,92,Laptop,5,5,88,Rarely,8,9,2.91,Highly Effective
+STU_2024530,19,Male,Undergraduate,Moodle,4.2,86,Laptop,3,4,66,Sometimes,4,6,2.76,Effective
+STU_2024531,15,Female,High School,Coursera,5.8,72,Laptop,4,3,76,Rarely,5,7,3.0,Effective
+STU_2024532,18,Female,High School,Canvas,8.1,100,Desktop,4,4,100,Frequently,8,7,3.61,Highly Effective
+STU_2024533,20,Female,Undergraduate,Zoom,2.9,85,Laptop,3,4,80,Frequently,6,6,3.23,Highly Effective
+STU_2024534,20,Female,Undergraduate,Moodle,8.8,82,Smartphone,4,4,92,Always,7,8,2.92,Highly Effective
+STU_2024535,21,Male,Undergraduate,Canvas,4.6,97,Smartphone,5,4,82,Sometimes,5,8,3.33,Highly Effective
+STU_2024536,22,Female,Undergraduate,Google Meet,2.5,90,Smartphone,4,3,100,Sometimes,5,8,3.51,Highly Effective
+STU_2024537,17,Female,High School,Google Classroom,3.6,90,Laptop,5,3,68,Sometimes,5,7,3.02,Highly Effective
+STU_2024538,24,Female,Undergraduate,Google Classroom,4.7,90,Laptop,3,4,94,Sometimes,6,7,3.14,Highly Effective
+STU_2024539,20,Female,Undergraduate,Google Classroom,5.9,60,Smartphone,3,3,65,Never,5,5,2.47,Moderately Effective
+STU_2024540,24,Female,Undergraduate,Coursera,5.5,78,Laptop,2,3,90,Sometimes,6,7,3.79,Effective
+STU_2024541,21,Female,Undergraduate,Coursera,4.1,60,Laptop,5,4,80,Frequently,7,7,2.08,Highly Effective
+STU_2024542,25,Male,Undergraduate,Canvas,6.9,65,Smartphone,5,4,61,Sometimes,7,7,2.2,Effective
+STU_2024543,24,Female,Undergraduate,Google Meet,1.7,65,Laptop,3,4,74,Frequently,4,6,2.65,Effective
+STU_2024544,19,Female,Undergraduate,Google Classroom,4.5,83,Desktop,5,4,92,Sometimes,5,8,3.21,Highly Effective
+STU_2024545,15,Male,High School,Zoom,2.3,65,Laptop,3,3,73,Frequently,6,7,3.13,Effective
+STU_2024546,17,Male,High School,Coursera,2.2,84,Laptop,4,3,65,Frequently,6,6,3.83,Effective
+STU_2024547,17,Female,High School,Google Classroom,5.2,85,Smartphone,4,4,91,Sometimes,6,5,3.24,Highly Effective
+STU_2024548,25,Other,Undergraduate,Zoom,3.7,86,Smartphone,4,3,100,Frequently,5,7,3.21,Highly Effective
+STU_2024549,18,Female,High School,Google Classroom,3.0,93,Smartphone,2,4,90,Always,8,6,3.14,Highly Effective
+STU_2024550,22,Female,Undergraduate,Microsoft Teams,2.9,90,Laptop,5,5,67,Frequently,6,9,3.66,Highly Effective
+STU_2024551,21,Female,Undergraduate,Google Classroom,7.1,69,Laptop,4,4,61,Always,6,8,2.98,Effective
+STU_2024552,23,Male,Undergraduate,Zoom,7.7,91,Desktop,2,3,100,Frequently,7,5,3.61,Effective
+STU_2024553,22,Female,Undergraduate,Zoom,3.9,77,Desktop,3,3,83,Sometimes,7,7,3.66,Effective
+STU_2024554,20,Male,Undergraduate,Coursera,5.6,89,Tablet,4,4,100,Frequently,6,7,2.61,Highly Effective
+STU_2024555,17,Male,High School,Canvas,2.2,66,Smartphone,3,3,52,Always,5,5,2.75,Moderately Effective
+STU_2024556,23,Female,Undergraduate,Google Classroom,3.4,73,Laptop,5,4,58,Sometimes,6,8,3.08,Effective
+STU_2024557,23,Female,Undergraduate,Canvas,6.5,85,Desktop,4,3,100,Always,5,6,3.0,Highly Effective
+STU_2024558,15,Male,High School,Microsoft Teams,8.5,86,Tablet,5,2,61,Rarely,6,5,2.65,Effective
+STU_2024559,17,Male,High School,Coursera,4.0,75,Laptop,5,3,53,Rarely,6,5,3.29,Effective
+STU_2024560,16,Male,High School,Microsoft Teams,6.4,100,Desktop,4,4,90,Sometimes,8,7,2.89,Highly Effective
+STU_2024561,25,Male,Undergraduate,Moodle,4.8,81,Tablet,4,3,100,Always,5,4,3.01,Effective
+STU_2024562,15,Female,High School,Coursera,6.7,88,Laptop,3,4,94,Rarely,7,7,2.66,Highly Effective
+STU_2024563,25,Female,Undergraduate,Zoom,5.4,75,Laptop,4,3,74,Frequently,8,5,2.73,Effective
+STU_2024564,20,Male,Undergraduate,Google Classroom,7.6,77,Tablet,4,4,66,Frequently,5,6,2.76,Effective
+STU_2024565,20,Male,Undergraduate,Coursera,6.4,86,Smartphone,4,4,71,Always,8,5,2.98,Effective
+STU_2024566,18,Female,High School,Zoom,3.9,76,Laptop,5,4,72,Always,6,7,3.35,Highly Effective
+STU_2024567,23,Female,Undergraduate,Google Classroom,3.4,69,Tablet,5,4,90,Frequently,5,9,3.05,Highly Effective
+STU_2024568,18,Male,High School,Zoom,7.5,70,Smartphone,4,3,70,Frequently,8,6,2.26,Effective
+STU_2024569,21,Male,Undergraduate,Moodle,4.8,88,Laptop,4,5,97,Sometimes,7,9,3.51,Highly Effective
+STU_2024570,17,Female,High School,Microsoft Teams,5.7,65,Laptop,5,4,87,Frequently,5,9,2.98,Highly Effective
+STU_2024571,22,Male,Undergraduate,Microsoft Teams,2.7,93,Tablet,2,4,82,Rarely,3,7,3.66,Highly Effective
+STU_2024572,17,Male,High School,Canvas,2.5,80,Desktop,3,3,76,Rarely,7,6,3.23,Effective
+STU_2024573,19,Male,Undergraduate,Coursera,6.5,51,Laptop,3,4,68,Frequently,8,8,2.72,Effective
+STU_2024574,16,Male,High School,Microsoft Teams,3.7,65,Smartphone,3,4,88,Rarely,3,8,3.42,Highly Effective
+STU_2024575,22,Male,Undergraduate,Moodle,3.8,85,Tablet,4,3,84,Frequently,7,9,2.79,Highly Effective
+STU_2024576,19,Male,Undergraduate,Coursera,1.4,56,Laptop,3,2,56,Rarely,3,7,2.47,Moderately Effective
+STU_2024577,15,Male,High School,Zoom,4.5,85,Laptop,5,4,86,Frequently,6,7,3.69,Highly Effective
+STU_2024578,24,Female,Undergraduate,Coursera,3.8,63,Smartphone,5,3,68,Never,7,5,2.66,Effective
+STU_2024579,16,Female,High School,Google Classroom,3.6,88,Smartphone,3,5,100,Rarely,5,8,3.31,Highly Effective
+STU_2024580,15,Female,High School,Google Classroom,4.2,72,Laptop,5,5,88,Frequently,7,7,2.92,Highly Effective
+STU_2024581,23,Female,Undergraduate,Google Classroom,3.8,72,Laptop,1,3,59,Never,3,4,2.71,Moderately Effective
+STU_2024582,16,Female,High School,Zoom,2.5,61,Smartphone,5,4,53,Rarely,5,7,2.76,Effective
+STU_2024583,18,Male,High School,Microsoft Teams,5.0,100,Desktop,5,5,82,Rarely,5,10,3.69,Highly Effective
+STU_2024584,19,Male,Undergraduate,Coursera,9.8,92,Smartphone,5,4,87,Frequently,9,8,3.2,Highly Effective
+STU_2024585,16,Male,High School,Google Meet,3.5,59,Smartphone,5,4,66,Sometimes,8,7,3.36,Effective
+STU_2024586,22,Female,Undergraduate,Google Meet,3.9,58,Desktop,1,3,64,Never,4,3,2.85,Moderately Effective
+STU_2024587,25,Female,Undergraduate,Zoom,5.9,82,Tablet,5,3,78,Never,6,8,2.51,Highly Effective
+STU_2024588,25,Female,Undergraduate,Coursera,5.2,58,Laptop,5,5,82,Sometimes,6,8,3.04,Highly Effective
+STU_2024589,15,Male,High School,Google Meet,3.9,95,Desktop,3,4,88,Frequently,5,6,3.48,Highly Effective
+STU_2024590,24,Female,Undergraduate,Moodle,5.5,90,Desktop,4,4,91,Frequently,7,6,2.76,Highly Effective
+STU_2024591,17,Female,High School,Moodle,2.6,100,Smartphone,5,4,91,Always,4,10,3.48,Highly Effective
+STU_2024592,25,Male,Undergraduate,Canvas,7.4,99,Smartphone,4,4,78,Sometimes,5,8,2.96,Highly Effective
+STU_2024593,16,Male,High School,Microsoft Teams,4.8,100,Smartphone,1,4,100,Sometimes,5,5,3.55,Highly Effective
+STU_2024594,24,Male,Undergraduate,Google Meet,5.8,100,Laptop,3,3,87,Frequently,7,7,3.2,Highly Effective
+STU_2024595,15,Male,High School,Google Meet,7.0,83,Desktop,5,5,98,Frequently,5,8,3.45,Highly Effective
+STU_2024596,24,Male,Undergraduate,Coursera,4.4,100,Laptop,5,5,77,Frequently,8,8,3.19,Highly Effective
+STU_2024597,22,Female,Undergraduate,Zoom,2.0,67,Smartphone,3,3,70,Frequently,6,6,3.26,Effective
+STU_2024598,25,Male,Undergraduate,Microsoft Teams,6.6,97,Laptop,3,3,100,Sometimes,6,6,3.38,Highly Effective
+STU_2024599,16,Female,High School,Google Meet,6.5,89,Laptop,4,5,90,Frequently,8,7,3.35,Highly Effective
+STU_2024600,15,Female,High School,Canvas,4.7,71,Smartphone,4,3,69,Sometimes,6,5,2.65,Effective
+STU_2024601,15,Male,High School,Google Meet,1.9,46,Smartphone,5,4,61,Sometimes,6,9,2.35,Effective
+STU_2024602,20,Female,Undergraduate,Microsoft Teams,9.0,75,Smartphone,4,3,94,Sometimes,7,7,3.26,Highly Effective
+STU_2024603,15,Male,High School,Google Classroom,5.8,71,Smartphone,4,4,81,Frequently,4,6,3.29,Effective
+STU_2024604,15,Female,High School,Google Classroom,5.0,90,Laptop,4,4,97,Always,6,7,3.5,Highly Effective
+STU_2024605,18,Male,High School,Google Meet,7.1,83,Laptop,3,4,84,Always,8,8,3.45,Highly Effective
+STU_2024606,16,Female,High School,Moodle,3.3,85,Laptop,5,3,100,Always,5,7,3.01,Highly Effective
+STU_2024607,17,Male,High School,Moodle,3.0,66,Tablet,4,4,86,Never,5,6,2.84,Effective
+STU_2024608,23,Female,Undergraduate,Moodle,1.8,83,Laptop,5,3,100,Sometimes,5,8,3.28,Highly Effective
+STU_2024609,25,Male,Undergraduate,Moodle,6.2,70,Smartphone,4,3,65,Sometimes,7,6,2.25,Effective
+STU_2024610,22,Female,Undergraduate,Zoom,7.9,80,Laptop,3,3,87,Sometimes,10,5,3.57,Effective
+STU_2024611,24,Female,Undergraduate,Coursera,4.9,84,Laptop,4,4,75,Sometimes,8,6,2.78,Highly Effective
+STU_2024612,22,Female,Undergraduate,Canvas,3.7,71,Tablet,3,4,72,Rarely,5,8,2.63,Effective
+STU_2024613,25,Female,Undergraduate,Canvas,2.3,79,Desktop,3,4,86,Sometimes,7,7,2.57,Highly Effective
+STU_2024614,19,Female,Undergraduate,Zoom,9.7,87,Desktop,5,3,93,Always,8,7,2.67,Highly Effective
+STU_2024615,21,Male,Undergraduate,Coursera,4.5,53,Smartphone,2,3,61,Frequently,7,4,2.67,Moderately Effective
+STU_2024616,23,Male,Undergraduate,Google Meet,3.9,100,Tablet,4,5,100,Sometimes,5,8,3.41,Highly Effective
+STU_2024617,17,Male,High School,Moodle,6.1,59,Laptop,3,3,72,Frequently,8,6,2.14,Effective
+STU_2024618,19,Female,Undergraduate,Google Classroom,1.5,100,Smartphone,5,5,75,Always,4,7,3.24,Highly Effective
+STU_2024619,21,Female,Undergraduate,Microsoft Teams,4.1,65,Laptop,5,4,70,Sometimes,5,7,2.73,Effective
+STU_2024620,24,Male,Undergraduate,Moodle,7.8,76,Laptop,3,4,68,Sometimes,7,8,2.98,Effective
+STU_2024621,21,Female,Undergraduate,Google Classroom,4.2,78,Laptop,5,3,86,Sometimes,9,7,2.41,Highly Effective
+STU_2024622,17,Male,High School,Canvas,4.7,74,Smartphone,1,2,77,Sometimes,7,5,2.34,Moderately Effective
+STU_2024623,24,Male,Undergraduate,Microsoft Teams,1.6,93,Smartphone,5,5,79,Frequently,7,6,3.69,Highly Effective
+STU_2024624,17,Female,High School,Moodle,6.1,49,Tablet,3,4,58,Always,6,7,3.41,Effective
+STU_2024625,19,Male,Undergraduate,Zoom,7.8,76,Laptop,3,2,38,Frequently,7,6,2.6,Moderately Effective
+STU_2024626,16,Male,High School,Coursera,4.4,78,Laptop,4,5,100,Frequently,7,6,3.62,Highly Effective
+STU_2024627,18,Female,High School,Google Classroom,5.9,95,Laptop,4,5,88,Frequently,7,7,2.97,Highly Effective
+STU_2024628,22,Male,Undergraduate,Coursera,7.0,75,Laptop,2,3,77,Frequently,6,7,2.91,Effective
+STU_2024629,22,Female,Undergraduate,Moodle,7.5,67,Smartphone,1,3,64,Frequently,6,5,2.63,Moderately Effective
+STU_2024630,19,Female,Undergraduate,Zoom,6.4,85,Laptop,3,2,80,Sometimes,7,7,2.83,Effective
+STU_2024631,18,Male,High School,Google Classroom,7.4,91,Laptop,3,2,88,Rarely,8,5,3.31,Effective
+STU_2024632,18,Male,High School,Zoom,4.3,79,Laptop,3,4,100,Never,6,7,3.38,Highly Effective
+STU_2024633,25,Male,Undergraduate,Google Meet,1.7,86,Smartphone,5,4,49,Frequently,5,8,2.26,Highly Effective
+STU_2024634,24,Female,Undergraduate,Google Classroom,9.0,78,Smartphone,5,3,75,Frequently,6,8,2.71,Highly Effective
+STU_2024635,25,Male,Undergraduate,Canvas,7.8,67,Laptop,4,4,58,Never,7,9,2.92,Effective
+STU_2024636,16,Female,High School,Google Meet,3.3,84,Laptop,4,4,88,Frequently,7,7,3.67,Highly Effective
+STU_2024637,22,Male,Undergraduate,Canvas,3.7,79,Laptop,5,4,64,Frequently,7,8,3.54,Highly Effective
+STU_2024638,20,Female,Undergraduate,Zoom,7.8,100,Laptop,4,4,96,Frequently,10,8,3.67,Highly Effective
+STU_2024639,16,Male,High School,Google Classroom,1.8,100,Desktop,2,3,96,Frequently,7,6,3.57,Highly Effective
+STU_2024640,21,Male,Undergraduate,Canvas,3.1,58,Laptop,3,4,45,Sometimes,4,8,2.48,Effective
+STU_2024641,20,Female,Undergraduate,Moodle,4.3,66,Smartphone,3,3,87,Frequently,6,6,2.92,Effective
+STU_2024642,19,Male,Undergraduate,Moodle,2.9,67,Smartphone,3,4,64,Sometimes,5,6,2.69,Effective
+STU_2024643,18,Female,High School,Coursera,6.0,47,Smartphone,5,4,80,Frequently,6,6,2.41,Effective
+STU_2024644,21,Male,Undergraduate,Google Classroom,5.0,85,Laptop,3,4,100,Frequently,5,5,3.26,Highly Effective
+STU_2024645,15,Male,High School,Microsoft Teams,3.3,100,Smartphone,4,4,84,Frequently,4,7,3.7,Highly Effective
+STU_2024646,25,Female,Undergraduate,Moodle,8.3,86,Smartphone,5,4,69,Sometimes,5,5,2.72,Effective
+STU_2024647,23,Male,Undergraduate,Microsoft Teams,4.3,72,Laptop,4,3,88,Frequently,5,6,2.14,Effective
+STU_2024648,16,Female,High School,Zoom,3.9,93,Tablet,5,5,84,Always,7,8,3.28,Highly Effective
+STU_2024649,16,Male,High School,Microsoft Teams,5.6,79,Smartphone,3,3,77,Sometimes,6,7,2.81,Effective
+STU_2024650,18,Female,High School,Google Classroom,6.7,97,Smartphone,5,5,69,Rarely,8,8,3.14,Highly Effective
+STU_2024651,16,Female,High School,Canvas,1.5,76,Laptop,5,5,94,Always,5,7,2.7,Highly Effective
+STU_2024652,15,Female,High School,Zoom,4.0,40,Tablet,3,3,42,Frequently,6,5,2.89,Moderately Effective
+STU_2024653,20,Other,Undergraduate,Coursera,4.0,61,Laptop,5,4,90,Never,4,8,2.73,Highly Effective
+STU_2024654,17,Female,High School,Google Classroom,3.5,69,Tablet,3,2,59,Frequently,4,5,2.81,Moderately Effective
+STU_2024655,25,Male,Undergraduate,Coursera,5.4,100,Laptop,4,3,85,Frequently,5,6,2.55,Highly Effective
+STU_2024656,20,Female,Undergraduate,Microsoft Teams,7.1,100,Desktop,3,3,91,Frequently,8,4,2.82,Effective
+STU_2024657,23,Female,Undergraduate,Microsoft Teams,3.7,69,Tablet,5,3,81,Rarely,7,6,2.61,Effective
+STU_2024658,18,Female,High School,Google Meet,2.4,79,Smartphone,5,4,77,Sometimes,7,7,2.52,Highly Effective
+STU_2024659,25,Female,Undergraduate,Moodle,5.4,53,Desktop,3,3,70,Always,8,7,2.74,Effective
+STU_2024660,21,Male,Undergraduate,Coursera,7.1,86,Smartphone,2,3,87,Frequently,7,8,2.78,Highly Effective
+STU_2024661,16,Male,High School,Moodle,8.4,84,Tablet,2,3,59,Always,7,5,3.18,Effective
+STU_2024662,25,Male,Undergraduate,Moodle,5.2,82,Smartphone,4,5,80,Always,7,8,2.83,Highly Effective
+STU_2024663,22,Female,Undergraduate,Canvas,5.6,88,Laptop,4,3,70,Rarely,10,8,2.87,Highly Effective
+STU_2024664,22,Male,Undergraduate,Moodle,5.9,51,Smartphone,3,5,77,Frequently,6,8,2.41,Effective
+STU_2024665,15,Male,High School,Coursera,4.6,45,Laptop,4,5,92,Frequently,2,7,3.47,Highly Effective
+STU_2024666,20,Male,Undergraduate,Microsoft Teams,6.1,74,Laptop,4,5,78,Sometimes,6,8,2.45,Highly Effective
+STU_2024667,15,Male,High School,Google Meet,5.6,66,Laptop,4,3,80,Frequently,6,7,3.3,Effective
+STU_2024668,20,Male,Undergraduate,Zoom,6.5,91,Laptop,5,4,85,Rarely,6,6,3.5,Highly Effective
+STU_2024669,15,Female,High School,Zoom,5.2,100,Smartphone,4,4,100,Frequently,7,6,2.5,Highly Effective
+STU_2024670,25,Male,Undergraduate,Coursera,6.6,68,Smartphone,5,3,69,Frequently,6,6,2.93,Effective
+STU_2024671,16,Female,High School,Google Meet,4.7,98,Smartphone,4,4,88,Frequently,9,8,3.55,Highly Effective
+STU_2024672,25,Male,Undergraduate,Canvas,2.3,100,Smartphone,5,5,100,Never,8,6,3.25,Highly Effective
+STU_2024673,23,Male,Undergraduate,Zoom,4.9,88,Tablet,5,3,88,Rarely,8,8,2.59,Highly Effective
+STU_2024674,15,Male,High School,Coursera,1.6,55,Laptop,2,3,68,Rarely,8,6,2.84,Moderately Effective
+STU_2024675,23,Female,Undergraduate,Google Meet,3.7,95,Laptop,5,4,83,Frequently,4,7,2.87,Highly Effective
+STU_2024676,20,Male,Undergraduate,Zoom,2.3,80,Laptop,3,3,73,Always,8,5,2.73,Effective
+STU_2024677,20,Female,Undergraduate,Google Meet,2.1,75,Smartphone,5,5,80,Sometimes,6,6,3.39,Highly Effective
+STU_2024678,23,Female,Undergraduate,Google Meet,9.5,83,Smartphone,3,3,69,Frequently,6,5,3.03,Effective
+STU_2024679,21,Female,Undergraduate,Zoom,3.5,55,Laptop,4,3,66,Always,6,6,2.48,Effective
+STU_2024680,18,Female,High School,Google Classroom,8.7,80,Laptop,5,4,92,Sometimes,10,8,2.65,Highly Effective
+STU_2024681,23,Female,Undergraduate,Zoom,4.9,54,Tablet,3,2,77,Sometimes,6,5,1.67,Moderately Effective
+STU_2024682,23,Male,Undergraduate,Coursera,5.2,78,Laptop,4,5,81,Frequently,6,7,3.95,Highly Effective
+STU_2024683,25,Other,Undergraduate,Google Meet,5.7,66,Tablet,4,4,68,Sometimes,8,9,2.72,Highly Effective
+STU_2024684,18,Female,High School,Coursera,3.7,81,Laptop,4,2,85,Rarely,6,5,2.79,Effective
+STU_2024685,19,Male,Undergraduate,Microsoft Teams,1.1,95,Tablet,5,4,99,Frequently,6,7,2.89,Highly Effective
+STU_2024686,16,Female,High School,Zoom,6.9,98,Laptop,4,4,69,Frequently,10,10,2.46,Highly Effective
+STU_2024687,23,Male,Undergraduate,Google Classroom,8.6,71,Smartphone,4,2,74,Always,8,3,2.6,Moderately Effective
+STU_2024688,21,Male,Undergraduate,Moodle,2.4,85,Laptop,4,4,86,Sometimes,5,7,3.4,Highly Effective
+STU_2024689,25,Male,Undergraduate,Moodle,8.0,100,Desktop,5,4,100,Always,6,7,3.34,Highly Effective
+STU_2024690,22,Female,Undergraduate,Canvas,3.9,75,Laptop,1,2,68,Frequently,6,6,2.52,Moderately Effective
+STU_2024691,22,Female,Undergraduate,Coursera,3.2,67,Smartphone,4,4,86,Rarely,8,5,3.18,Effective
+STU_2024692,17,Female,High School,Google Meet,4.0,85,Laptop,3,3,94,Frequently,6,7,2.93,Highly Effective
+STU_2024693,18,Male,High School,Google Meet,2.5,58,Desktop,4,4,87,Frequently,7,5,3.21,Effective
+STU_2024694,21,Female,Undergraduate,Google Classroom,2.5,74,Tablet,4,4,100,Sometimes,6,7,3.07,Highly Effective
+STU_2024695,22,Female,Undergraduate,Microsoft Teams,4.3,61,Laptop,3,3,70,Sometimes,7,5,2.22,Effective
+STU_2024696,21,Female,Undergraduate,Google Meet,2.4,73,Tablet,3,3,87,Rarely,4,7,3.21,Effective
+STU_2024697,19,Other,Undergraduate,Moodle,5.3,84,Laptop,4,4,79,Sometimes,8,6,3.39,Highly Effective
+STU_2024698,23,Female,Undergraduate,Google Classroom,3.5,75,Laptop,4,4,79,Never,6,9,3.21,Highly Effective
+STU_2024699,18,Female,High School,Canvas,2.3,90,Desktop,3,5,89,Never,6,5,3.09,Highly Effective
+STU_2024700,20,Female,Undergraduate,Coursera,6.4,67,Laptop,4,4,80,Always,8,8,3.32,Highly Effective
+STU_2024701,16,Female,High School,Google Meet,3.0,70,Tablet,5,4,71,Frequently,5,7,2.54,Highly Effective
+STU_2024702,17,Female,High School,Moodle,5.9,100,Laptop,5,4,82,Sometimes,6,7,3.13,Highly Effective
+STU_2024703,21,Female,Undergraduate,Microsoft Teams,8.4,87,Smartphone,3,3,93,Always,7,9,3.39,Highly Effective
+STU_2024704,18,Male,High School,Microsoft Teams,4.8,73,Smartphone,4,4,64,Sometimes,6,6,2.79,Effective
+STU_2024705,15,Female,High School,Moodle,1.0,90,Smartphone,4,4,86,Always,4,7,3.5,Highly Effective
+STU_2024706,16,Female,High School,Google Classroom,3.6,55,Smartphone,3,2,82,Rarely,8,9,2.43,Effective
+STU_2024707,18,Male,High School,Google Classroom,5.4,93,Smartphone,5,4,96,Rarely,6,8,3.08,Highly Effective
+STU_2024708,15,Male,High School,Google Classroom,3.2,86,Tablet,5,4,53,Frequently,5,7,2.88,Effective
+STU_2024709,21,Male,Undergraduate,Canvas,5.4,54,Tablet,3,3,66,Frequently,8,6,2.41,Effective
+STU_2024710,18,Male,High School,Microsoft Teams,7.6,91,Laptop,3,4,93,Frequently,6,6,2.72,Highly Effective
+STU_2024711,15,Female,High School,Moodle,5.8,84,Tablet,4,4,68,Sometimes,7,7,2.85,Highly Effective
+STU_2024712,15,Male,High School,Microsoft Teams,2.4,100,Laptop,5,4,100,Sometimes,7,9,3.13,Highly Effective
+STU_2024713,15,Male,High School,Google Classroom,6.8,86,Smartphone,2,3,84,Frequently,4,5,3.44,Effective
+STU_2024714,18,Female,High School,Google Meet,4.9,84,Laptop,4,4,100,Sometimes,8,8,3.14,Highly Effective
+STU_2024715,18,Female,High School,Moodle,3.6,97,Laptop,4,3,82,Frequently,3,7,3.17,Highly Effective
+STU_2024716,19,Female,Undergraduate,Zoom,4.0,84,Laptop,1,3,89,Sometimes,7,6,3.33,Effective
+STU_2024717,25,Male,Undergraduate,Zoom,3.9,100,Tablet,4,5,100,Frequently,5,8,3.49,Highly Effective
+STU_2024718,17,Male,High School,Moodle,4.1,73,Laptop,4,3,91,Always,7,6,3.06,Effective
+STU_2024719,17,Female,High School,Microsoft Teams,4.6,39,Laptop,4,4,60,Always,5,8,2.48,Effective
+STU_2024720,23,Male,Undergraduate,Zoom,4.9,80,Smartphone,4,4,63,Frequently,6,7,3.15,Effective
+STU_2024721,20,Female,Undergraduate,Coursera,5.0,100,Laptop,2,3,75,Always,9,6,2.77,Effective
+STU_2024722,17,Male,High School,Zoom,7.8,85,Desktop,2,5,100,Frequently,10,7,3.27,Highly Effective
+STU_2024723,21,Female,Undergraduate,Google Meet,5.1,60,Laptop,3,3,75,Sometimes,7,8,2.78,Effective
+STU_2024724,21,Female,Undergraduate,Moodle,2.7,40,Smartphone,4,3,60,Frequently,4,7,2.57,Moderately Effective
+STU_2024725,15,Male,High School,Google Classroom,2.9,84,Smartphone,4,4,97,Frequently,5,7,3.65,Highly Effective
+STU_2024726,19,Male,Undergraduate,Microsoft Teams,3.5,89,Desktop,5,5,90,Rarely,4,6,3.77,Highly Effective
+STU_2024727,23,Male,Undergraduate,Google Classroom,4.5,70,Tablet,5,5,93,Frequently,8,8,3.26,Highly Effective
+STU_2024728,16,Female,High School,Coursera,1.5,70,Tablet,2,4,62,Sometimes,4,5,2.8,Effective
+STU_2024729,15,Female,High School,Google Classroom,5.0,55,Desktop,1,2,54,Never,10,4,2.62,Moderately Effective
+STU_2024730,21,Male,Undergraduate,Canvas,6.0,100,Tablet,2,3,73,Rarely,8,6,2.87,Effective
+STU_2024731,24,Male,Undergraduate,Microsoft Teams,7.1,81,Smartphone,4,4,87,Frequently,7,9,2.66,Highly Effective
+STU_2024732,25,Female,Undergraduate,Google Meet,8.6,61,Laptop,4,3,81,Frequently,7,6,3.04,Effective
+STU_2024733,21,Female,Undergraduate,Google Meet,4.1,83,Tablet,2,4,94,Frequently,8,7,2.92,Highly Effective
+STU_2024734,19,Male,Undergraduate,Coursera,2.2,86,Tablet,5,4,91,Sometimes,6,8,3.28,Highly Effective
+STU_2024735,22,Female,Undergraduate,Microsoft Teams,6.3,50,Desktop,5,4,83,Sometimes,6,7,3.16,Effective
+STU_2024736,24,Male,Undergraduate,Moodle,4.7,70,Laptop,2,3,64,Always,7,6,2.77,Effective
+STU_2024737,25,Female,Undergraduate,Coursera,6.8,100,Laptop,3,4,99,Rarely,8,6,3.53,Highly Effective
+STU_2024738,16,Female,High School,Microsoft Teams,7.6,77,Smartphone,4,4,100,Frequently,5,7,3.44,Highly Effective
+STU_2024739,20,Female,Undergraduate,Zoom,5.9,69,Smartphone,1,3,83,Frequently,8,5,2.89,Effective
+STU_2024740,24,Male,Undergraduate,Google Classroom,4.0,63,Desktop,2,3,92,Frequently,3,5,3.41,Effective
+STU_2024741,16,Female,High School,Canvas,3.6,70,Laptop,4,2,68,Always,5,8,3.13,Effective
+STU_2024742,20,Other,Undergraduate,Canvas,3.9,63,Laptop,4,4,85,Sometimes,8,7,2.56,Highly Effective
+STU_2024743,15,Male,High School,Zoom,6.0,74,Laptop,4,4,89,Always,4,7,3.04,Highly Effective
+STU_2024744,22,Male,Undergraduate,Microsoft Teams,2.4,91,Tablet,4,4,100,Always,5,8,3.55,Highly Effective
+STU_2024745,24,Female,Undergraduate,Moodle,3.0,68,Smartphone,4,3,76,Sometimes,7,5,2.01,Effective
+STU_2024746,20,Male,Undergraduate,Google Classroom,3.7,81,Laptop,4,3,93,Sometimes,6,7,2.69,Highly Effective
+STU_2024747,20,Female,Undergraduate,Moodle,4.0,70,Smartphone,4,4,75,Frequently,8,6,2.5,Effective
+STU_2024748,16,Other,High School,Coursera,2.2,100,Tablet,2,4,92,Frequently,3,5,3.06,Highly Effective
+STU_2024749,15,Male,High School,Coursera,3.2,63,Laptop,3,4,69,Always,6,8,2.69,Effective
+STU_2024750,25,Male,Undergraduate,Google Meet,8.1,88,Laptop,3,3,78,Always,6,8,2.73,Highly Effective
+STU_2024751,15,Male,High School,Microsoft Teams,1.4,81,Laptop,4,3,80,Sometimes,4,5,2.85,Effective
+STU_2024752,23,Other,Undergraduate,Moodle,4.1,100,Smartphone,4,5,100,Frequently,5,7,3.65,Highly Effective
+STU_2024753,17,Female,High School,Google Classroom,2.5,90,Smartphone,3,4,90,Always,2,7,3.56,Highly Effective
+STU_2024754,16,Female,High School,Microsoft Teams,6.4,94,Laptop,4,5,100,Never,6,7,2.4,Highly Effective
+STU_2024755,25,Male,Undergraduate,Canvas,5.5,82,Laptop,5,5,84,Sometimes,4,8,3.39,Highly Effective
+STU_2024756,16,Male,High School,Google Meet,9.1,91,Laptop,5,4,93,Sometimes,8,8,3.3,Highly Effective
+STU_2024757,20,Male,Undergraduate,Moodle,4.6,85,Laptop,5,4,100,Sometimes,7,6,3.87,Highly Effective
+STU_2024758,17,Female,High School,Google Classroom,5.6,60,Desktop,2,2,62,Always,8,5,2.51,Moderately Effective
+STU_2024759,23,Male,Undergraduate,Google Classroom,1.5,92,Laptop,3,4,92,Sometimes,4,6,3.49,Highly Effective
+STU_2024760,17,Female,High School,Microsoft Teams,2.2,70,Laptop,4,3,80,Always,4,7,2.79,Effective
+STU_2024761,18,Male,High School,Google Meet,4.1,56,Laptop,3,3,77,Frequently,2,7,2.58,Effective
+STU_2024762,19,Male,Undergraduate,Zoom,4.1,82,Laptop,5,5,92,Always,4,9,3.24,Highly Effective
+STU_2024763,21,Female,Undergraduate,Coursera,8.3,70,Tablet,2,3,80,Sometimes,6,6,3.1,Effective
+STU_2024764,20,Female,Undergraduate,Coursera,1.1,65,Laptop,3,2,61,Sometimes,4,6,2.78,Moderately Effective
+STU_2024765,18,Male,High School,Google Classroom,6.0,100,Smartphone,4,4,77,Frequently,6,5,3.49,Highly Effective
+STU_2024766,18,Female,High School,Coursera,1.7,73,Smartphone,4,4,67,Sometimes,4,7,3.01,Effective
+STU_2024767,24,Other,Undergraduate,Microsoft Teams,7.0,56,Laptop,5,5,92,Rarely,7,10,3.35,Highly Effective
+STU_2024768,19,Female,Undergraduate,Coursera,2.1,78,Laptop,1,2,66,Frequently,9,3,2.09,Moderately Effective
+STU_2024769,20,Male,Undergraduate,Google Classroom,1.8,82,Laptop,3,4,79,Sometimes,4,8,3.84,Highly Effective
+STU_2024770,20,Male,Undergraduate,Zoom,8.1,92,Desktop,5,4,100,Rarely,10,6,3.58,Highly Effective
+STU_2024771,21,Female,Undergraduate,Moodle,5.1,89,Desktop,2,4,67,Always,5,5,2.73,Effective
+STU_2024772,23,Male,Undergraduate,Zoom,4.6,74,Smartphone,4,5,100,Frequently,8,6,3.7,Highly Effective
+STU_2024773,18,Male,High School,Google Meet,5.8,96,Tablet,3,4,84,Sometimes,5,5,3.28,Highly Effective
+STU_2024774,24,Male,Undergraduate,Zoom,6.3,75,Tablet,3,4,54,Sometimes,7,4,3.61,Effective
+STU_2024775,24,Male,Undergraduate,Coursera,2.0,55,Laptop,5,4,67,Sometimes,5,8,2.92,Effective
+STU_2024776,15,Male,High School,Moodle,4.5,65,Laptop,2,3,63,Sometimes,6,5,2.97,Moderately Effective
+STU_2024777,20,Female,Undergraduate,Canvas,1.8,49,Laptop,3,4,72,Sometimes,6,5,2.49,Effective
+STU_2024778,16,Male,High School,Google Meet,2.4,99,Laptop,4,5,96,Sometimes,7,9,3.03,Highly Effective
+STU_2024779,21,Female,Undergraduate,Google Classroom,6.8,76,Laptop,3,3,83,Frequently,9,6,2.88,Effective
+STU_2024780,17,Male,High School,Google Meet,6.1,95,Smartphone,3,3,84,Sometimes,6,3,3.35,Effective
+STU_2024781,25,Female,Undergraduate,Canvas,8.8,92,Laptop,5,4,100,Frequently,8,10,3.21,Highly Effective
+STU_2024782,22,Female,Undergraduate,Coursera,5.7,78,Laptop,4,4,83,Rarely,4,7,2.82,Highly Effective
+STU_2024783,22,Male,Undergraduate,Zoom,4.6,77,Laptop,3,4,75,Frequently,3,8,2.51,Highly Effective
+STU_2024784,24,Male,Undergraduate,Canvas,6.1,100,Smartphone,5,5,91,Frequently,6,8,3.99,Highly Effective
+STU_2024785,21,Female,Undergraduate,Google Meet,7.9,79,Laptop,3,4,72,Always,6,9,2.97,Highly Effective
+STU_2024786,17,Female,High School,Google Meet,3.8,47,Laptop,3,2,68,Frequently,8,6,2.28,Moderately Effective
+STU_2024787,22,Male,Undergraduate,Coursera,3.6,95,Tablet,4,4,83,Always,6,6,2.85,Highly Effective
+STU_2024788,19,Male,Undergraduate,Google Classroom,1.2,86,Tablet,4,4,95,Sometimes,5,7,3.2,Highly Effective
+STU_2024789,19,Female,Undergraduate,Canvas,4.7,98,Tablet,5,4,90,Frequently,5,5,3.62,Highly Effective
+STU_2024790,19,Female,Undergraduate,Microsoft Teams,3.4,71,Desktop,3,3,97,Always,4,5,2.86,Effective
+STU_2024791,21,Male,Undergraduate,Canvas,2.7,77,Tablet,4,3,82,Sometimes,7,8,2.73,Highly Effective
+STU_2024792,17,Female,High School,Coursera,2.6,64,Laptop,5,4,73,Sometimes,4,6,3.12,Effective
+STU_2024793,15,Male,High School,Google Classroom,4.3,79,Desktop,3,3,80,Rarely,8,4,2.77,Effective
+STU_2024794,19,Female,Undergraduate,Coursera,4.2,100,Laptop,5,4,88,Rarely,6,8,2.84,Highly Effective
+STU_2024795,20,Male,Undergraduate,Coursera,4.6,76,Laptop,4,4,72,Rarely,4,7,3.24,Highly Effective
+STU_2024796,22,Female,Undergraduate,Google Meet,2.8,60,Smartphone,5,3,77,Sometimes,4,7,2.89,Effective
+STU_2024797,16,Male,High School,Moodle,4.5,87,Laptop,2,3,92,Always,7,7,2.43,Effective
+STU_2024798,23,Female,Undergraduate,Zoom,7.2,71,Smartphone,4,3,85,Frequently,10,7,3.29,Effective
+STU_2024799,23,Female,Undergraduate,Microsoft Teams,5.6,97,Laptop,4,4,76,Rarely,8,6,3.34,Highly Effective
+STU_2024800,15,Female,High School,Google Classroom,1.1,67,Smartphone,5,5,78,Always,5,9,3.0,Highly Effective
+STU_2024801,22,Female,Undergraduate,Moodle,7.1,69,Laptop,4,4,75,Frequently,7,6,3.37,Effective
+STU_2024802,20,Female,Undergraduate,Coursera,3.5,78,Tablet,3,3,94,Sometimes,5,4,3.1,Effective
+STU_2024803,24,Male,Undergraduate,Zoom,4.8,88,Tablet,5,5,80,Sometimes,8,10,3.4,Highly Effective
+STU_2024804,17,Female,High School,Google Meet,8.1,59,Laptop,5,4,81,Sometimes,5,8,2.78,Highly Effective
+STU_2024805,21,Male,Undergraduate,Microsoft Teams,1.9,75,Desktop,4,4,70,Frequently,6,8,3.02,Highly Effective
+STU_2024806,16,Male,High School,Microsoft Teams,5.5,71,Laptop,4,4,75,Frequently,5,6,3.17,Effective
+STU_2024807,18,Female,High School,Google Classroom,5.7,88,Smartphone,5,5,82,Frequently,8,9,3.32,Highly Effective
+STU_2024808,25,Male,Undergraduate,Moodle,5.1,66,Tablet,4,4,71,Rarely,6,6,3.06,Effective
+STU_2024809,16,Male,High School,Moodle,3.6,85,Tablet,4,4,81,Always,7,8,2.97,Highly Effective
+STU_2024810,20,Female,Undergraduate,Coursera,3.6,67,Laptop,4,4,69,Frequently,5,4,2.72,Effective
+STU_2024811,24,Female,Undergraduate,Canvas,1.5,65,Smartphone,5,4,84,Frequently,5,6,3.49,Highly Effective
+STU_2024812,15,Female,High School,Google Classroom,5.0,58,Tablet,5,3,67,Sometimes,7,6,1.87,Effective
+STU_2024813,23,Female,Undergraduate,Moodle,1.7,92,Laptop,4,4,79,Always,6,7,3.16,Highly Effective
+STU_2024814,15,Female,High School,Coursera,4.8,94,Tablet,4,3,83,Frequently,6,6,2.74,Highly Effective
+STU_2024815,21,Male,Undergraduate,Google Classroom,7.6,98,Laptop,3,4,87,Sometimes,7,6,3.1,Highly Effective
+STU_2024816,23,Male,Undergraduate,Coursera,6.0,83,Laptop,2,3,83,Sometimes,7,5,2.75,Effective
+STU_2024817,19,Female,Undergraduate,Microsoft Teams,2.5,86,Smartphone,4,4,66,Sometimes,5,8,2.97,Highly Effective
+STU_2024818,19,Male,Undergraduate,Coursera,7.3,84,Smartphone,3,5,82,Sometimes,7,5,3.67,Highly Effective
+STU_2024819,22,Female,Undergraduate,Moodle,7.0,70,Desktop,4,4,92,Frequently,9,8,3.01,Highly Effective
+STU_2024820,22,Male,Undergraduate,Microsoft Teams,1.3,80,Desktop,4,3,70,Rarely,9,7,2.56,Effective
+STU_2024821,15,Male,High School,Microsoft Teams,3.2,61,Laptop,4,4,73,Frequently,5,10,2.6,Highly Effective
+STU_2024822,20,Male,Undergraduate,Canvas,5.2,80,Tablet,5,3,68,Frequently,7,7,2.76,Effective
+STU_2024823,16,Male,High School,Google Meet,3.6,96,Desktop,4,4,86,Sometimes,3,8,3.22,Highly Effective
+STU_2024824,18,Female,High School,Google Classroom,5.7,72,Laptop,5,5,78,Never,8,8,3.33,Highly Effective
+STU_2024825,19,Male,Undergraduate,Coursera,1.1,66,Tablet,5,5,87,Never,4,8,3.15,Highly Effective
+STU_2024826,20,Male,Undergraduate,Coursera,4.2,73,Smartphone,5,4,52,Sometimes,5,7,3.53,Effective
+STU_2024827,19,Male,Undergraduate,Moodle,2.9,91,Laptop,3,3,81,Frequently,5,5,3.19,Effective
+STU_2024828,23,Male,Undergraduate,Google Classroom,9.3,89,Desktop,5,4,96,Never,6,7,3.38,Highly Effective
+STU_2024829,23,Female,Undergraduate,Zoom,3.1,51,Laptop,4,3,78,Sometimes,6,8,2.75,Effective
+STU_2024830,20,Female,Undergraduate,Microsoft Teams,4.0,90,Tablet,1,3,78,Rarely,7,5,2.92,Effective
+STU_2024831,18,Male,High School,Zoom,6.2,86,Smartphone,5,3,71,Frequently,8,8,3.4,Highly Effective
+STU_2024832,25,Female,Undergraduate,Google Classroom,9.3,38,Desktop,4,2,57,Rarely,6,7,1.93,Moderately Effective
+STU_2024833,24,Female,Undergraduate,Zoom,3.7,84,Smartphone,5,5,78,Always,8,8,3.47,Highly Effective
+STU_2024834,16,Male,High School,Microsoft Teams,7.4,74,Smartphone,4,4,95,Frequently,6,6,3.19,Highly Effective
+STU_2024835,24,Male,Undergraduate,Moodle,3.4,96,Desktop,4,3,70,Sometimes,4,7,3.35,Highly Effective
+STU_2024836,23,Other,Undergraduate,Zoom,7.4,86,Smartphone,4,4,92,Frequently,8,7,2.74,Highly Effective
+STU_2024837,16,Female,High School,Google Classroom,1.4,77,Tablet,4,4,70,Sometimes,5,8,3.42,Highly Effective
+STU_2024838,18,Male,High School,Google Classroom,6.8,72,Laptop,2,4,79,Always,6,9,2.76,Highly Effective
+STU_2024839,25,Female,Undergraduate,Coursera,6.3,74,Laptop,4,3,59,Frequently,5,6,2.87,Effective
+STU_2024840,24,Female,Undergraduate,Google Meet,3.8,88,Smartphone,3,5,91,Frequently,5,9,3.46,Highly Effective
+STU_2024841,23,Male,Undergraduate,Coursera,3.6,59,Desktop,5,5,100,Always,7,8,2.69,Highly Effective
+STU_2024842,19,Male,Undergraduate,Zoom,3.9,84,Laptop,4,4,86,Always,7,7,3.58,Highly Effective
+STU_2024843,16,Male,High School,Google Meet,2.3,59,Laptop,3,3,68,Always,5,5,2.68,Moderately Effective
+STU_2024844,22,Male,Undergraduate,Google Classroom,3.6,92,Laptop,4,4,98,Always,7,6,2.46,Highly Effective
+STU_2024845,16,Female,High School,Microsoft Teams,2.2,83,Smartphone,4,4,100,Frequently,5,7,3.34,Highly Effective
+STU_2024846,17,Male,High School,Canvas,6.1,78,Smartphone,4,4,85,Rarely,6,7,2.66,Highly Effective
+STU_2024847,18,Male,High School,Google Meet,5.4,100,Tablet,3,3,68,Sometimes,5,6,3.48,Effective
+STU_2024848,22,Male,Undergraduate,Google Meet,2.6,72,Smartphone,4,3,75,Sometimes,4,5,2.94,Effective
+STU_2024849,17,Female,High School,Google Meet,4.1,60,Laptop,4,3,67,Sometimes,5,6,3.03,Effective
+STU_2024850,22,Male,Undergraduate,Google Meet,3.9,71,Laptop,2,3,91,Sometimes,4,7,2.9,Effective
+STU_2024851,25,Female,Undergraduate,Moodle,3.8,95,Smartphone,4,5,95,Frequently,4,6,3.46,Highly Effective
+STU_2024852,18,Female,High School,Canvas,7.5,84,Smartphone,5,4,84,Sometimes,8,6,3.2,Highly Effective
+STU_2024853,15,Female,High School,Google Meet,5.4,96,Laptop,3,4,100,Frequently,5,9,3.91,Highly Effective
+STU_2024854,24,Female,Undergraduate,Zoom,8.3,99,Smartphone,5,4,86,Frequently,9,8,3.23,Highly Effective
+STU_2024855,18,Female,High School,Moodle,7.0,64,Desktop,3,4,82,Sometimes,8,6,2.8,Effective
+STU_2024856,15,Female,High School,Google Classroom,4.8,53,Tablet,1,3,67,Frequently,7,5,2.55,Moderately Effective
+STU_2024857,16,Male,High School,Microsoft Teams,2.6,75,Smartphone,2,3,95,Frequently,6,5,3.0,Effective
+STU_2024858,23,Male,Undergraduate,Moodle,5.2,58,Laptop,5,5,79,Frequently,5,8,3.38,Highly Effective
+STU_2024859,16,Female,High School,Google Meet,4.0,68,Smartphone,4,4,76,Frequently,7,6,2.91,Effective
+STU_2024860,22,Male,Undergraduate,Canvas,6.0,62,Tablet,1,3,74,Frequently,5,6,2.98,Effective
+STU_2024861,17,Male,High School,Google Classroom,2.9,88,Laptop,3,3,94,Frequently,7,6,2.61,Highly Effective
+STU_2024862,18,Female,High School,Microsoft Teams,3.7,73,Laptop,3,4,69,Never,5,6,2.44,Effective
+STU_2024863,22,Male,Undergraduate,Canvas,3.3,60,Desktop,4,4,73,Always,3,7,3.0,Effective
+STU_2024864,17,Male,High School,Moodle,2.5,86,Smartphone,2,5,99,Frequently,4,6,3.34,Highly Effective
+STU_2024865,23,Female,Undergraduate,Google Classroom,4.3,69,Laptop,4,5,65,Sometimes,6,7,2.87,Highly Effective
+STU_2024866,23,Male,Undergraduate,Coursera,6.0,70,Smartphone,4,4,100,Frequently,5,7,2.93,Highly Effective
+STU_2024867,23,Male,Undergraduate,Microsoft Teams,4.2,82,Laptop,5,4,81,Frequently,7,6,2.99,Highly Effective
+STU_2024868,15,Male,High School,Zoom,3.9,68,Laptop,4,3,83,Always,5,8,2.54,Effective
+STU_2024869,19,Female,Undergraduate,Coursera,3.4,56,Laptop,2,3,80,Sometimes,8,6,2.85,Effective
+STU_2024870,23,Male,Undergraduate,Coursera,5.1,92,Laptop,5,3,84,Always,4,7,3.15,Highly Effective
+STU_2024871,18,Other,High School,Google Classroom,5.3,91,Desktop,1,4,100,Rarely,8,6,2.85,Highly Effective
+STU_2024872,22,Female,Undergraduate,Zoom,3.3,57,Tablet,4,4,59,Sometimes,8,9,2.95,Effective
+STU_2024873,18,Male,High School,Google Meet,5.9,91,Tablet,4,3,89,Frequently,4,5,3.26,Highly Effective
+STU_2024874,15,Male,High School,Coursera,5.7,79,Smartphone,4,3,100,Sometimes,6,7,3.54,Highly Effective
+STU_2024875,15,Female,High School,Canvas,0.9,71,Smartphone,3,4,78,Frequently,8,8,2.99,Highly Effective
+STU_2024876,22,Female,Undergraduate,Google Meet,3.5,96,Smartphone,1,4,87,Frequently,4,5,3.35,Effective
+STU_2024877,25,Male,Undergraduate,Coursera,4.0,60,Laptop,4,3,81,Rarely,9,7,2.55,Effective
+STU_2024878,22,Male,Undergraduate,Google Classroom,7.2,78,Laptop,4,5,84,Frequently,6,10,2.75,Highly Effective
+STU_2024879,17,Male,High School,Zoom,4.0,100,Smartphone,4,4,90,Sometimes,5,7,3.12,Highly Effective
+STU_2024880,19,Female,Undergraduate,Microsoft Teams,5.3,74,Laptop,4,3,93,Sometimes,3,6,2.96,Effective
+STU_2024881,22,Male,Undergraduate,Google Meet,8.0,100,Laptop,3,5,100,Frequently,8,8,3.43,Highly Effective
+STU_2024882,15,Female,High School,Canvas,7.4,95,Smartphone,4,4,100,Frequently,6,7,2.98,Highly Effective
+STU_2024883,21,Male,Undergraduate,Moodle,5.0,55,Laptop,3,4,82,Sometimes,10,6,2.81,Effective
+STU_2024884,20,Male,Undergraduate,Canvas,4.8,90,Tablet,3,3,100,Rarely,6,2,2.65,Effective
+STU_2024885,21,Female,Undergraduate,Coursera,3.6,56,Smartphone,4,5,75,Frequently,5,8,3.22,Highly Effective
+STU_2024886,19,Female,Undergraduate,Google Classroom,5.4,63,Smartphone,3,4,59,Always,6,6,2.98,Effective
+STU_2024887,20,Male,Undergraduate,Google Classroom,4.5,62,Laptop,3,5,73,Frequently,7,7,2.6,Effective
+STU_2024888,24,Female,Undergraduate,Zoom,6.1,70,Smartphone,4,4,67,Sometimes,6,10,3.13,Highly Effective
+STU_2024889,18,Male,High School,Zoom,4.3,76,Laptop,4,5,88,Sometimes,7,6,2.85,Highly Effective
+STU_2024890,23,Female,Undergraduate,Zoom,2.6,57,Tablet,5,5,68,Frequently,8,7,2.94,Highly Effective
+STU_2024891,15,Male,High School,Moodle,3.7,87,Tablet,3,4,94,Frequently,6,7,2.91,Highly Effective
+STU_2024892,22,Female,Undergraduate,Google Classroom,5.8,70,Smartphone,4,2,82,Frequently,4,6,2.9,Effective
+STU_2024893,17,Female,High School,Canvas,6.8,80,Tablet,3,3,93,Frequently,8,5,2.82,Effective
+STU_2024894,24,Female,Undergraduate,Moodle,3.9,87,Laptop,5,3,98,Rarely,5,7,3.33,Highly Effective
+STU_2024895,21,Female,Undergraduate,Microsoft Teams,4.3,75,Smartphone,5,5,100,Sometimes,7,9,3.65,Highly Effective
+STU_2024896,16,Female,High School,Google Classroom,6.1,73,Laptop,5,3,80,Frequently,7,7,2.81,Effective
+STU_2024897,25,Male,Undergraduate,Microsoft Teams,1.8,53,Laptop,2,4,80,Frequently,2,7,2.39,Effective
+STU_2024898,23,Other,Undergraduate,Google Classroom,9.0,71,Tablet,4,4,85,Always,9,6,2.81,Highly Effective
+STU_2024899,24,Male,Undergraduate,Microsoft Teams,4.5,100,Laptop,4,4,100,Sometimes,7,5,3.54,Highly Effective
+STU_2024900,15,Male,High School,Moodle,4.2,66,Laptop,1,3,89,Frequently,8,5,2.94,Effective
+STU_2024901,23,Female,Undergraduate,Google Meet,4.6,90,Laptop,4,3,65,Always,4,9,2.76,Highly Effective
+STU_2024902,24,Female,Undergraduate,Google Classroom,1.6,56,Laptop,5,3,81,Frequently,6,6,3.16,Effective
+STU_2024903,19,Female,Undergraduate,Google Classroom,6.2,77,Laptop,2,2,100,Frequently,5,1,2.42,Moderately Effective
+STU_2024904,24,Male,Undergraduate,Coursera,5.8,99,Tablet,3,4,100,Frequently,6,7,3.7,Highly Effective
+STU_2024905,15,Male,High School,Moodle,3.5,75,Smartphone,4,4,87,Frequently,7,8,2.98,Highly Effective
+STU_2024906,18,Female,High School,Google Meet,2.0,69,Laptop,5,5,67,Sometimes,4,6,3.61,Highly Effective
+STU_2024907,15,Female,High School,Canvas,4.4,55,Laptop,3,4,66,Sometimes,4,9,2.98,Effective
+STU_2024908,16,Male,High School,Zoom,2.2,75,Desktop,3,3,78,Sometimes,4,7,3.33,Effective
+STU_2024909,24,Female,Undergraduate,Microsoft Teams,6.3,82,Laptop,4,3,93,Frequently,7,4,3.59,Effective
+STU_2024910,16,Female,High School,Moodle,2.4,68,Laptop,5,5,100,Frequently,5,7,3.38,Highly Effective
+STU_2024911,24,Female,Undergraduate,Coursera,2.4,100,Laptop,5,3,83,Sometimes,7,8,2.8,Highly Effective
+STU_2024912,22,Female,Undergraduate,Microsoft Teams,7.3,82,Laptop,5,4,85,Frequently,5,9,3.4,Highly Effective
+STU_2024913,21,Other,Undergraduate,Microsoft Teams,1.5,78,Laptop,4,5,99,Sometimes,6,9,3.32,Highly Effective
+STU_2024914,17,Male,High School,Microsoft Teams,8.3,100,Smartphone,5,4,81,Sometimes,9,9,2.98,Highly Effective
+STU_2024915,18,Female,High School,Google Meet,3.8,69,Desktop,3,5,72,Frequently,6,10,3.02,Highly Effective
+STU_2024916,22,Male,Undergraduate,Google Classroom,7.0,100,Tablet,3,3,88,Frequently,6,5,2.84,Highly Effective
+STU_2024917,23,Other,Undergraduate,Coursera,6.5,100,Laptop,4,4,89,Always,5,7,2.94,Highly Effective
+STU_2024918,15,Female,High School,Microsoft Teams,6.0,96,Tablet,5,4,81,Frequently,5,9,3.65,Highly Effective
+STU_2024919,24,Male,Undergraduate,Google Classroom,4.0,73,Smartphone,3,3,67,Sometimes,6,6,2.47,Effective
+STU_2024920,22,Male,Undergraduate,Coursera,3.6,53,Laptop,4,4,56,Frequently,5,8,2.99,Effective
+STU_2024921,18,Male,High School,Zoom,3.6,86,Laptop,4,4,73,Sometimes,6,7,2.56,Highly Effective
+STU_2024922,17,Male,High School,Coursera,5.4,90,Laptop,3,4,79,Frequently,6,7,1.99,Highly Effective
+STU_2024923,21,Female,Undergraduate,Moodle,5.5,65,Desktop,4,3,54,Frequently,9,7,2.34,Effective
+STU_2024924,22,Male,Undergraduate,Google Classroom,2.0,77,Smartphone,3,4,67,Rarely,4,7,3.43,Effective
+STU_2024925,24,Male,Undergraduate,Google Classroom,7.0,86,Tablet,3,3,88,Sometimes,9,7,3.14,Highly Effective
+STU_2024926,16,Female,High School,Zoom,4.9,100,Tablet,4,5,86,Frequently,6,9,4.0,Highly Effective
+STU_2024927,18,Female,High School,Google Meet,1.7,60,Smartphone,2,3,79,Rarely,8,7,2.47,Effective
+STU_2024928,15,Female,High School,Moodle,5.1,62,Smartphone,5,4,68,Sometimes,8,8,2.91,Effective
+STU_2024929,18,Female,High School,Zoom,4.6,61,Laptop,5,3,91,Frequently,8,8,3.37,Highly Effective
+STU_2024930,24,Male,Undergraduate,Google Classroom,4.2,76,Laptop,3,4,71,Frequently,6,7,3.43,Effective
+STU_2024931,20,Female,Undergraduate,Zoom,5.4,99,Smartphone,3,4,100,Frequently,7,6,3.3,Highly Effective
+STU_2024932,21,Male,Undergraduate,Google Classroom,4.4,67,Desktop,3,3,78,Sometimes,4,5,2.87,Effective
+STU_2024933,23,Female,Undergraduate,Google Meet,5.3,72,Laptop,3,3,79,Always,4,5,2.79,Effective
+STU_2024934,23,Other,Undergraduate,Google Meet,4.2,77,Smartphone,3,3,99,Sometimes,5,5,3.55,Effective
+STU_2024935,20,Female,Undergraduate,Microsoft Teams,6.3,100,Smartphone,2,4,77,Rarely,8,5,3.26,Effective
+STU_2024936,18,Female,High School,Google Meet,6.9,98,Laptop,3,4,73,Frequently,6,6,2.95,Highly Effective
+STU_2024937,19,Female,Undergraduate,Moodle,6.0,100,Laptop,5,4,100,Sometimes,6,9,3.19,Highly Effective
+STU_2024938,18,Female,High School,Zoom,1.9,88,Smartphone,4,4,78,Frequently,6,7,3.04,Highly Effective
+STU_2024939,21,Male,Undergraduate,Coursera,3.7,80,Laptop,3,4,65,Sometimes,5,6,2.98,Effective
+STU_2024940,15,Female,High School,Coursera,6.5,79,Laptop,5,3,90,Always,6,7,3.34,Highly Effective
+STU_2024941,22,Female,Undergraduate,Moodle,5.9,80,Smartphone,1,4,92,Sometimes,8,6,3.08,Effective
+STU_2024942,23,Female,Undergraduate,Zoom,5.0,100,Laptop,5,4,85,Sometimes,8,7,3.33,Highly Effective
+STU_2024943,16,Male,High School,Zoom,4.8,88,Tablet,2,2,95,Always,5,5,2.39,Effective
+STU_2024944,21,Male,Undergraduate,Microsoft Teams,7.4,82,Smartphone,2,2,71,Frequently,6,4,2.21,Moderately Effective
+STU_2024945,21,Male,Undergraduate,Microsoft Teams,1.0,75,Smartphone,3,3,69,Sometimes,5,5,2.61,Effective
+STU_2024946,22,Male,Undergraduate,Moodle,5.1,61,Tablet,5,5,89,Sometimes,8,8,3.08,Highly Effective
+STU_2024947,24,Male,Undergraduate,Google Classroom,4.9,92,Tablet,3,3,86,Sometimes,7,5,3.18,Effective
+STU_2024948,18,Male,High School,Google Classroom,7.6,57,Laptop,3,4,54,Frequently,8,6,2.97,Effective
+STU_2024949,21,Female,Undergraduate,Coursera,6.7,90,Laptop,5,4,87,Frequently,6,8,3.47,Highly Effective
+STU_2024950,24,Female,Undergraduate,Canvas,3.1,92,Laptop,4,4,60,Never,5,6,3.37,Effective
+STU_2024951,16,Female,High School,Canvas,4.3,86,Tablet,5,4,100,Sometimes,7,4,3.33,Highly Effective
+STU_2024952,19,Male,Undergraduate,Canvas,7.1,84,Laptop,4,4,93,Never,8,6,2.97,Highly Effective
+STU_2024953,25,Female,Undergraduate,Zoom,2.8,93,Laptop,5,5,91,Sometimes,3,8,3.31,Highly Effective
+STU_2024954,17,Female,High School,Moodle,5.4,90,Laptop,3,3,87,Always,5,9,3.24,Highly Effective
+STU_2024955,21,Female,Undergraduate,Microsoft Teams,6.0,84,Tablet,3,4,87,Rarely,8,8,3.01,Highly Effective
+STU_2024956,21,Male,Undergraduate,Zoom,7.1,83,Laptop,4,4,92,Sometimes,6,4,2.93,Highly Effective
+STU_2024957,25,Male,Undergraduate,Microsoft Teams,6.9,75,Smartphone,4,4,83,Frequently,6,7,2.48,Highly Effective
+STU_2024958,19,Male,Undergraduate,Google Classroom,3.4,76,Laptop,4,3,63,Frequently,6,7,2.82,Effective
+STU_2024959,17,Female,High School,Canvas,5.1,83,Smartphone,5,4,82,Sometimes,7,8,3.26,Highly Effective
+STU_2024960,15,Male,High School,Moodle,3.8,62,Laptop,3,3,57,Frequently,4,5,2.82,Moderately Effective
+STU_2024961,24,Female,Undergraduate,Microsoft Teams,3.5,81,Laptop,3,2,85,Frequently,5,4,2.92,Effective
+STU_2024962,25,Female,Undergraduate,Coursera,4.8,92,Laptop,4,4,94,Sometimes,6,6,3.28,Highly Effective
+STU_2024963,23,Male,Undergraduate,Moodle,3.7,38,Tablet,2,4,74,Sometimes,4,10,2.26,Effective
+STU_2024964,18,Female,High School,Google Meet,1.2,72,Laptop,4,3,90,Frequently,7,7,2.58,Effective
+STU_2024965,18,Male,High School,Zoom,2.8,67,Laptop,5,3,78,Frequently,9,4,2.53,Effective
+STU_2024966,21,Male,Undergraduate,Canvas,8.7,73,Laptop,4,4,68,Sometimes,8,7,2.62,Effective
+STU_2024967,16,Female,High School,Zoom,3.1,75,Smartphone,2,2,75,Frequently,5,7,3.58,Effective
+STU_2024968,18,Female,High School,Moodle,4.1,88,Smartphone,2,5,99,Always,6,8,3.74,Highly Effective
+STU_2024969,25,Female,Undergraduate,Microsoft Teams,3.5,67,Laptop,4,5,60,Frequently,5,8,3.39,Highly Effective
+STU_2024970,16,Male,High School,Zoom,2.0,100,Smartphone,3,4,87,Sometimes,10,7,3.07,Highly Effective
+STU_2024971,22,Female,Undergraduate,Moodle,5.8,88,Tablet,3,2,100,Frequently,10,4,2.69,Effective
+STU_2024972,25,Male,Undergraduate,Google Meet,4.3,59,Desktop,3,2,66,Sometimes,5,4,2.59,Moderately Effective
+STU_2024973,19,Other,Undergraduate,Google Classroom,6.0,61,Laptop,3,3,63,Always,7,7,2.33,Effective
+STU_2024974,24,Male,Undergraduate,Microsoft Teams,7.3,81,Smartphone,2,3,90,Rarely,5,8,3.54,Effective
+STU_2024975,18,Female,High School,Google Meet,5.2,89,Smartphone,1,2,73,Sometimes,5,5,2.84,Effective
+STU_2024976,21,Male,Undergraduate,Google Meet,4.3,87,Smartphone,3,3,76,Sometimes,5,6,3.07,Effective
+STU_2024977,22,Male,Undergraduate,Canvas,5.7,57,Laptop,3,5,78,Frequently,5,6,2.55,Effective
+STU_2024978,17,Female,High School,Coursera,5.5,79,Tablet,5,3,86,Rarely,8,6,3.26,Highly Effective
+STU_2024979,18,Female,High School,Canvas,6.0,73,Laptop,4,3,81,Sometimes,8,6,2.53,Effective
+STU_2024980,22,Male,Undergraduate,Coursera,2.9,86,Laptop,3,4,69,Sometimes,5,6,3.02,Effective
+STU_2024981,24,Male,Undergraduate,Moodle,5.9,100,Laptop,5,4,99,Sometimes,8,8,3.53,Highly Effective
+STU_2024982,19,Male,Undergraduate,Google Classroom,3.2,82,Laptop,3,3,84,Sometimes,6,6,2.75,Effective
+STU_2024983,18,Female,High School,Coursera,1.1,74,Laptop,4,4,87,Frequently,4,6,2.94,Highly Effective
+STU_2024984,23,Male,Undergraduate,Google Meet,7.6,75,Smartphone,5,4,67,Sometimes,9,5,3.5,Effective
+STU_2024985,18,Female,High School,Canvas,5.8,68,Laptop,4,5,85,Rarely,5,10,2.62,Highly Effective
+STU_2024986,22,Male,Undergraduate,Google Classroom,5.2,75,Tablet,4,3,45,Sometimes,5,6,2.74,Effective
+STU_2024987,24,Female,Undergraduate,Zoom,8.4,94,Laptop,4,5,100,Always,8,9,3.77,Highly Effective
+STU_2024988,16,Male,High School,Canvas,8.3,81,Smartphone,4,3,72,Always,4,7,3.35,Effective
+STU_2024989,23,Male,Undergraduate,Canvas,5.0,100,Laptop,2,2,68,Sometimes,6,7,2.98,Effective
+STU_2024990,20,Male,Undergraduate,Coursera,5.3,56,Desktop,4,3,69,Frequently,8,7,2.84,Effective
+STU_2024991,25,Male,Undergraduate,Google Meet,2.2,94,Laptop,5,4,80,Frequently,6,8,3.44,Highly Effective
+STU_2024992,16,Female,High School,Moodle,7.4,74,Smartphone,4,4,85,Frequently,10,6,3.43,Highly Effective
+STU_2024993,23,Female,Undergraduate,Zoom,5.0,77,Laptop,1,3,81,Sometimes,6,4,3.52,Effective
+STU_2024994,24,Male,Undergraduate,Coursera,2.9,65,Laptop,4,3,79,Frequently,5,7,3.12,Effective
+STU_2024995,17,Male,High School,Google Meet,6.4,54,Tablet,4,3,48,Always,4,7,2.47,Moderately Effective
+STU_2024996,19,Male,Undergraduate,Google Classroom,2.9,44,Laptop,4,3,31,Always,2,9,2.22,Moderately Effective
+STU_2024997,23,Male,Undergraduate,Coursera,2.5,63,Laptop,3,3,74,Sometimes,8,5,2.91,Effective
+STU_2024998,22,Male,Undergraduate,Google Meet,7.0,97,Smartphone,4,4,84,Frequently,9,6,3.09,Highly Effective
+STU_2024999,23,Male,Undergraduate,Canvas,4.4,90,Laptop,4,5,86,Never,6,9,3.58,Highly Effective

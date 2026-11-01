@@ -1,4 +1,4 @@
-# Analisis Efektivitas Pembelajaran Online (Online Learning Effectiveness Analysis)
+# Analisis Efektivitas Pembelajaran Online (Online Learning Effectiveness Analysis).
 
 Repositori ini berisi proyek praktikum *Machine Learning* yang bertujuan untuk menganalisis faktor-faktor yang memengaruhi performa akademik mahasiswa dalam pembelajaran online. Dataset yang digunakan berisi informasi mengenai durasi belajar daring, keterlibatan mahasiswa, kehadiran kelas, kualitas koneksi internet, perangkat yang digunakan, serta tingkat kepuasan belajar.
 

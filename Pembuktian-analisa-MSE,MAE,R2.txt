@@ -1,0 +1,49 @@
+PEMBUKTIAN ANALISIS MSE, MAE, DAN R2
+
+Sumber hasil
+Nilai berikut diambil dari output evaluasi model pada notebook main.ipynb.
+
+Model                  MSE (perkiraan)   MAE      RMSE     R2
+Linear Regression      0.1036            0.2614   0.3218   0.2994
+Random Forest          0.1045            0.2610   0.3233   0.2926
+
+Perhitungan MSE
+Notebook menampilkan RMSE, bukan MSE secara langsung. Karena RMSE adalah akar
+kuadrat dari MSE, MSE dapat diperkirakan dengan rumus:
+
+	MSE = RMSE^2
+
+Linear Regression:
+	MSE = 0.3218^2 = 0.10355524, atau sekitar 0.1036
+
+Random Forest:
+	MSE = 0.3233^2 = 0.10452289, atau sekitar 0.1045
+
+Angka MSE ini merupakan perkiraan karena RMSE pada output notebook telah
+dibulatkan menjadi empat angka di belakang koma.
+
+Interpretasi
+1. MSE
+   MSE yang lebih kecil umumnya menunjukkan kesalahan prediksi yang lebih
+   rendah, tetapi besar-kecilnya perlu dibaca sesuai skala target. Di sini MSE
+   sekitar 0.10 dalam satuan GPA kuadrat. Nilainya tidak sama dengan nol.
+   Linear Regression memiliki MSE sedikit lebih rendah daripada Random Forest.
+
+2. MAE
+   MAE kedua model sekitar 0.26. Artinya, rata-rata prediksi GPA berbeda sekitar
+   0.26 poin dari nilai aktual. Ini adalah ukuran kesalahan dalam satuan GPA
+   sehingga lebih mudah dibaca secara langsung.
+
+3. R2
+   R2 Linear Regression sebesar 0.2994 dan Random Forest sebesar 0.2926.
+   Keduanya jauh dari 1 dan lebih dekat ke 0. Secara kasar, model menjelaskan
+   sekitar 30% variasi GPA pada data uji; sekitar 70% variasi belum dijelaskan.
+   Dengan demikian, kemampuan model menjelaskan variasi GPA masih terbatas.
+
+Kesimpulan
+Kedua model menghasilkan MAE sekitar 0.26 GPA dan MSE sekitar 0.10 GPA kuadrat,
+jadi kesalahannya tidak nol. R2 sekitar 0.30 menunjukkan bahwa hasil model juga
+belum mendekati R2 = 1. Kinerja kedua model hampir sama: Linear Regression
+sedikit lebih baik pada MSE dan R2, sedangkan Random Forest sedikit lebih baik
+pada MAE. MSE yang lebih kecil tidak dengan sendirinya membuktikan model sangat
+baik; metrik perlu dipertimbangkan bersama-sama.
